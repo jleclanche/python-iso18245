@@ -5,6 +5,8 @@ from typing import Dict, List
 
 from pkg_resources import resource_filename
 
+ISO_VERSION_YEAR = 2003
+
 
 class MCCNotFound(KeyError):
 	pass
