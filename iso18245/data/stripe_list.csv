@@ -1,0 +1,288 @@
+MCC,DESCRIPTION,STRIPE CODE
+0742,Veterinary Services,veterinary_services
+0763,Agricultural Cooperative,agricultural_cooperative
+0780,Landscaping Services,landscaping_services
+1520,General Services,general_services
+1711,"Heating, Plumbing, A/C",heating_plumbing_a_c
+1731,Electrical Services,electrical_services
+1740,"Masonry, Stonework, and Plaster",masonry_stonework_and_plaster
+1750,Carpentry Services,carpentry_services
+1761,"Roofing/Siding, Sheet Metal",roofing_siding_sheet_metal
+1771,Concrete Work Services,concrete_work_services
+1799,Special Trade Services,special_trade_services
+2741,Miscellaneous Publishing and Printing,miscellaneous_publishing_and_printing
+2791,"Typesetting, Plate Making, and Related Services",typesetting_plate_making_and_related_services
+2842,Specialty Cleaning,specialty_cleaning
+4011,Railroads,railroads
+4111,"Commuter Transport, Ferries",commuter_transport_and_ferries
+4112,Passenger Railways,passenger_railways
+4119,Ambulance Services,ambulance_services
+4121,Taxicabs/Limousines,taxicabs_limousines
+4131,Bus Lines,bus_lines
+4214,"Motor Freight Carriers and Trucking - Local and Long Distance, Moving and Storage Companies, and Local Delivery Services",motor_freight_carriers_and_trucking
+4215,Courier Services,courier_services
+4225,"Public Warehousing and Storage - Farm Products, Refrigerated Goods, Household Goods, and Storage",public_warehousing_and_storage
+4411,Cruise Lines,cruise_lines
+4457,Boat Rentals and Leases,boat_rentals_and_leases
+4468,"Marinas, Service and Supplies",marinas_service_and_supplies
+4511,"Airlines, Air Carriers",airlines_air_carriers
+4582,"Airports, Flying Fields",airports_flying_fields
+4722,"Travel Agencies, Tour Operators",travel_agencies_tour_operators
+4723,TUI Travel - Germany,t_ui_travel_germany
+4784,Tolls/Bridge Fees,tolls_bridge_fees
+4789,Transportation Services (Not Elsewhere Classified),transportation_services
+4812,Telecommunication Equipment and Telephone Sales,telecommunication_equipment_and_telephone_sales
+4814,Telecommunication Services,telecommunication_services
+4816,Computer Network Services,computer_network_services
+4821,Telegraph Services,telegraph_services
+4829,"Wires, Money Orders",wires_money_orders
+4899,"Cable, Satellite, and Other Pay Television and Radio",cable_satellite_and_other_pay_television_and_radio
+4900,Utilities,utilities
+5013,Motor Vehicle Supplies and New Parts,motor_vehicle_supplies_and_new_parts
+5021,Office and Commercial Furniture,office_and_commercial_furniture
+5039,Construction Materials (Not Elsewhere Classified),construction_materials
+5044,"Photographic, Photocopy, Microfilm Equipment, and Supplies",photographic_photocopy_microfilm_equipment_and_supplies
+5045,"Computers, Peripherals, and Software",computers_peripherals_and_software
+5046,Commercial Equipment (Not Elsewhere Classified),commercial_equipment
+5047,"Medical, Dental, Ophthalmic, and Hospital Equipment and Supplies",medical_dental_ophthalmic_and_hospital_equipment_and_supplies
+5051,Metal Service Centers,metal_service_centers
+5065,Electrical Parts and Equipment,electrical_parts_and_equipment
+5072,"Hardware, Equipment, and Supplies",hardware_equipment_and_supplies
+5074,"Plumbing, Heating Equipment, and Supplies",plumbing_heating_equipment_and_supplies
+5085,Industrial Supplies (Not Elsewhere Classified),industrial_supplies
+5094,"Precious Stones and Metals, Watches and Jewelry",precious_stones_and_metals_watches_and_jewelry
+5099,Durable Goods (Not Elsewhere Classified),durable_goods
+5111,"Stationary, Office Supplies, Printing and Writing Paper",stationary_office_supplies_printing_and_writing_paper
+5122,"Drugs, Drug Proprietaries, and Druggist Sundries",drugs_drug_proprietaries_and_druggist_sundries
+5131,"Piece Goods, Notions, and Other Dry Goods",piece_goods_notions_and_other_dry_goods
+5137,"Uniforms, Commercial Clothing",uniforms_commercial_clothing
+5139,Commercial Footwear,commercial_footwear
+5169,Chemicals and Allied Products (Not Elsewhere Classified),chemicals_and_allied_products
+5172,Petroleum and Petroleum Products,petroleum_and_petroleum_products
+5192,"Books, Periodicals, and Newspapers",books_periodicals_and_newspapers
+5193,"Florists Supplies, Nursery Stock, and Flowers",florists_supplies_nursery_stock_and_flowers
+5198,"Paints, Varnishes, and Supplies",paints_varnishes_and_supplies
+5199,Nondurable Goods (Not Elsewhere Classified),nondurable_goods
+5200,Home Supply Warehouse Stores,home_supply_warehouse_stores
+5211,"Lumber, Building Materials Stores",lumber_building_materials_stores
+5231,"Glass, Paint, and Wallpaper Stores",glass_paint_and_wallpaper_stores
+5251,Hardware Stores,hardware_stores
+5261,"Nurseries, Lawn and Garden Supply Stores",nurseries_lawn_and_garden_supply_stores
+5271,Mobile Home Dealers,mobile_home_dealers
+5300,Wholesale Clubs,wholesale_clubs
+5309,Duty Free Stores,duty_free_stores
+5310,Discount Stores,discount_stores
+5311,Department Stores,department_stores
+5331,Variety Stores,variety_stores
+5399,Miscellaneous General Merchandise,miscellaneous_general_merchandise
+5411,"Grocery Stores, Supermarkets",grocery_stores_supermarkets
+5422,Freezer and Locker Meat Provisioners,freezer_and_locker_meat_provisioners
+5441,"Candy, Nut, and Confectionery Stores",candy_nut_and_confectionery_stores
+5451,Dairy Products Stores,dairy_products_stores
+5462,Bakeries,bakeries
+5499,Miscellaneous Food Stores - Convenience Stores and Specialty Markets,miscellaneous_food_stores
+5511,"Car and Truck Dealers (New & Used) Sales, Service, Repairs Parts and Leasing",car_and_truck_dealers_new_used
+5521,"Car and Truck Dealers (Used Only) Sales, Service, Repairs Parts and Leasing",car_and_truck_dealers_used_only
+5531,Auto and Home Supply Stores,auto_and_home_supply_stores
+5532,Automotive Tire Stores,automotive_tire_stores
+5533,Automotive Parts and Accessories Stores,automotive_parts_and_accessories_stores
+5541,Service Stations,service_stations
+5542,Automated Fuel Dispensers,automated_fuel_dispensers
+5551,Boat Dealers,boat_dealers
+5561,"Motorcycle Shops, Dealers",motorcycle_shops_dealers
+5571,Motorcycle Shops and Dealers,motorcycle_shops_and_dealers
+5592,Motor Homes Dealers,motor_homes_dealers
+5598,Snowmobile Dealers,snowmobile_dealers
+5599,Miscellaneous Auto Dealers,miscellaneous_auto_dealers
+5611,Mens and Boys Clothing and Accessories Stores,mens_and_boys_clothing_and_accessories_stores
+5621,Womens Ready-To-Wear Stores,womens_ready_to_wear_stores
+5631,Womens Accessory and Specialty Shops,womens_accessory_and_specialty_shops
+5641,Childrens and Infants Wear Stores,childrens_and_infants_wear_stores
+5651,Family Clothing Stores,family_clothing_stores
+5655,Sports and Riding Apparel Stores,sports_and_riding_apparel_stores
+5661,Shoe Stores,shoe_stores
+5681,Furriers and Fur Shops,furriers_and_fur_shops
+5691,"Mens, Womens Clothing Stores",mens_womens_clothing_stores
+5697,"Tailors, Alterations",tailors_alterations
+5698,Wig and Toupee Stores,wig_and_toupee_stores
+5699,Miscellaneous Apparel and Accessory Shops,miscellaneous_apparel_and_accessory_shops
+5712,"Furniture, Home Furnishings, and Equipment Stores, Except Appliances",furniture_home_furnishings_and_equipment_stores_except_appliances
+5713,Floor Covering Stores,floor_covering_stores
+5714,"Drapery, Window Covering, and Upholstery Stores",drapery_window_covering_and_upholstery_stores
+5718,"Fireplace, Fireplace Screens, and Accessories Stores",fireplace_fireplace_screens_and_accessories_stores
+5719,Miscellaneous Home Furnishing Specialty Stores,miscellaneous_home_furnishing_specialty_stores
+5722,Household Appliance Stores,household_appliance_stores
+5732,Electronics Stores,electronics_stores
+5733,"Music Stores-Musical Instruments, Pianos, and Sheet Music",music_stores_musical_instruments_pianos_and_sheet_music
+5734,Computer Software Stores,computer_software_stores
+5735,Record Stores,record_stores
+5811,Caterers,caterers
+5812,"Eating Places, Restaurants",eating_places_restaurants
+5813,Drinking Places,drinking_places
+5814,Fast Food Restaurants,fast_food_restaurants
+5815,"Digital Goods Media – Books, Movies, Music",digital_goods_media
+5816,Digital Goods – Games,digital_goods_games
+5817,Digital Goods – Applications (Excludes Games),digital_goods_applications
+5818,Digital Goods – Large Digital Goods Merchant,digital_goods_large_volume
+5912,Drug Stores and Pharmacies,drug_stores_and_pharmacies
+5921,"Package Stores-Beer, Wine, and Liquor",package_stores_beer_wine_and_liquor
+5931,Used Merchandise and Secondhand Stores,used_merchandise_and_secondhand_stores
+5932,Antique Shops,antique_shops
+5933,Pawn Shops,pawn_shops
+5935,Wrecking and Salvage Yards,wrecking_and_salvage_yards
+5937,Antique Reproductions,antique_reproductions
+5940,Bicycle Shops,bicycle_shops
+5941,Sporting Goods Stores,sporting_goods_stores
+5942,Book Stores,book_stores
+5943,"Stationery Stores, Office, and School Supply Stores",stationery_stores_office_and_school_supply_stores
+5944,"Jewelry Stores, Watches, Clocks, and Silverware Stores",jewelry_stores_watches_clocks_and_silverware_stores
+5945,"Hobby, Toy, and Game Shops",hobby_toy_and_game_shops
+5946,Camera and Photographic Supply Stores,camera_and_photographic_supply_stores
+5947,"Gift, Card, Novelty, and Souvenir Shops",gift_card_novelty_and_souvenir_shops
+5948,Luggage and Leather Goods Stores,luggage_and_leather_goods_stores
+5949,"Sewing, Needlework, Fabric, and Piece Goods Stores",sewing_needlework_fabric_and_piece_goods_stores
+5950,"Glassware, Crystal Stores",glassware_crystal_stores
+5960,Direct Marketing - Insurance Services,direct_marketing_insurance_services
+5962,Direct Marketing - Travel,direct_marketing_travel
+5963,Door-To-Door Sales,door_to_door_sales
+5964,Direct Marketing - Catalog Merchant,direct_marketing_catalog_merchant
+5965,Direct Marketing - Combination Catalog and Retail Merchant,direct_marketing_combination_catalog_and_retail_merchant
+5966,Direct Marketing - Outbound Telemarketing,direct_marketing_outbound_telemarketing
+5967,Direct Marketing - Inbound Telemarketing,direct_marketing_inbound_telemarketing
+5968,Direct Marketing - Subscription,direct_marketing_subscription
+5969,Direct Marketing - Other,direct_marketing_other
+5970,Artists Supply and Craft Shops,artists_supply_and_craft_shops
+5971,Art Dealers and Galleries,art_dealers_and_galleries
+5972,Stamp and Coin Stores,stamp_and_coin_stores
+5973,Religious Goods Stores,religious_goods_stores
+5975,Hearing Aids Sales and Supplies,hearing_aids_sales_and_supplies
+5976,Orthopedic Goods - Prosthetic Devices,orthopedic_goods_prosthetic_devices
+5977,Cosmetic Stores,cosmetic_stores
+5978,Typewriter Stores,typewriter_stores
+5983,Fuel Dealers (Non Automotive),fuel_dealers_non_automotive
+5992,Florists,florists
+5993,Cigar Stores and Stands,cigar_stores_and_stands
+5994,News Dealers and Newsstands,news_dealers_and_newsstands
+5995,"Pet Shops, Pet Food, and Supplies",pet_shops_pet_food_and_supplies
+5996,Swimming Pools Sales,swimming_pools_sales
+5997,Electric Razor Stores,electric_razor_stores
+5998,Tent and Awning Shops,tent_and_awning_shops
+5999,Miscellaneous Specialty Retail,miscellaneous_specialty_retail
+6010,Manual Cash Disburse,manual_cash_disburse
+6011,Automated Cash Disburse,automated_cash_disburse
+6012,Financial Institutions,financial_institutions
+6051,"Non-FI, Money Orders",non_fi_money_orders
+6211,Security Brokers/Dealers,security_brokers_dealers
+6300,"Insurance Underwriting, Premiums",insurance_underwriting_premiums
+6399,Insurance - Default,insurance_default
+6513,Real Estate Agents and Managers - Rentals,real_estate_agents_and_managers_rentals
+6540,"Non-FI, Stored Value Card Purchase/Load",non_fi_stored_value_card_purchase_load
+7011,"Hotels, Motels, and Resorts",hotels_motels_and_resorts
+7012,Timeshares,timeshares
+7032,Sporting/Recreation Camps,sporting_recreation_camps
+7033,"Trailer Parks, Campgrounds",trailer_parks_campgrounds
+7210,"Laundry, Cleaning Services",laundry_cleaning_services
+7211,Laundries,laundries
+7216,Dry Cleaners,dry_cleaners
+7217,Carpet/Upholstery Cleaning,carpet_upholstery_cleaning
+7221,Photographic Studios,photographic_studios
+7230,Barber and Beauty Shops,barber_and_beauty_shops
+7251,Shoe Repair/Hat Cleaning,shoe_repair_hat_cleaning
+7261,"Funeral Services, Crematories",funeral_services_crematories
+7273,Dating/Escort Services,dating_escort_services
+7276,Tax Preparation Services,tax_preparation_services
+7277,Counseling Services,counseling_services
+7278,Buying/Shopping Services,buying_shopping_services
+7296,Clothing Rental,clothing_rental
+7297,Massage Parlors,massage_parlors
+7298,Health and Beauty Spas,health_and_beauty_spas
+7299,Miscellaneous General Services,miscellaneous_general_services
+7311,Advertising Services,advertising_services
+7321,Credit Reporting Agencies,credit_reporting_agencies
+7333,"Commercial Photography, Art and Graphics",commercial_photography_art_and_graphics
+7338,"Quick Copy, Repro, and Blueprint",quick_copy_repro_and_blueprint
+7339,Secretarial Support Services,secretarial_support_services
+7342,Exterminating Services,exterminating_services
+7349,Cleaning and Maintenance,cleaning_and_maintenance
+7361,Employment/Temp Agencies,employment_temp_agencies
+7372,Computer Programming,computer_programming
+7375,Information Retrieval Services,information_retrieval_services
+7379,Computer Repair,computer_repair
+7392,"Consulting, Public Relations",consulting_public_relations
+7393,Detective Agencies,detective_agencies
+7394,Equipment Rental,equipment_rental
+7395,Photo Developing,photo_developing
+7399,Miscellaneous Business Services,miscellaneous_business_services
+7511,Truck StopIteration,truck_stop_iteration
+7512,Car Rental Agencies,car_rental_agencies
+7513,Truck/Utility Trailer Rentals,truck_utility_trailer_rentals
+7519,Recreational Vehicle Rentals,recreational_vehicle_rentals
+7523,"Parking Lots, Garages",parking_lots_garages
+7531,Auto Body Repair Shops,auto_body_repair_shops
+7534,Tire Retreading and Repair,tire_retreading_and_repair
+7535,Auto Paint Shops,auto_paint_shops
+7538,Auto Service Shops,auto_service_shops
+7542,Car Washes,car_washes
+7549,Towing Services,towing_services
+7622,Electronics Repair Shops,electronics_repair_shops
+7623,"A/C, Refrigeration Repair",ac_refrigeration_repair
+7629,Small Appliance Repair,small_appliance_repair
+7631,Watch/Jewelry Repair,watch_jewelry_repair
+7641,"Furniture Repair, Refinishing",furniture_repair_refinishing
+7692,Welding Repair,welding_repair
+7699,Miscellaneous Repair Shops,miscellaneous_repair_shops
+7829,Picture/Video Production,picture_video_production
+7832,Motion Picture Theaters,motion_picture_theaters
+7841,Video Tape Rental Stores,video_tape_rental_stores
+7911,"Dance Hall, Studios, Schools",dance_hall_studios_schools
+7922,Theatrical Ticket Agencies,theatrical_ticket_agencies
+7929,"Bands, Orchestras",bands_orchestras
+7932,Billiard/Pool Establishments,billiard_pool_establishments
+7933,Bowling Alleys,bowling_alleys
+7941,Sports Clubs/Fields,sports_clubs_fields
+7991,Tourist Attractions and Exhibits,tourist_attractions_and_exhibits
+7992,Golf Courses - Public,golf_courses_public
+7993,Video Amusement Game Supplies,video_amusement_game_supplies
+7994,Video Game Arcades,video_game_arcades
+7995,Betting/Casino Gambling,betting_casino_gambling
+7996,Amusement Parks/Carnivals,amusement_parks_carnivals
+7997,Country Clubs,country_clubs
+7998,Aquariums,aquariums
+7999,Miscellaneous Recreation Services,miscellaneous_recreation_services
+8011,Doctors,doctors
+8021,"Dentists, Orthodontists",dentists_orthodontists
+8031,Osteopaths,osteopaths
+8041,Chiropractors,chiropractors
+8042,"Optometrists, Ophthalmologist",optometrists_ophthalmologist
+8043,"Opticians, Eyeglasses",opticians_eyeglasses
+8049,"Chiropodists, Podiatrists",chiropodists_podiatrists
+8050,Nursing/Personal Care,nursing_personal_care
+8062,Hospitals,hospitals
+8071,Medical and Dental Labs,medical_and_dental_labs
+8099,Medical Services,medical_services
+8111,"Legal Services, Attorneys",legal_services_attorneys
+8211,"Elementary, Secondary Schools",elementary_secondary_schools
+8220,"Colleges, Universities",colleges_universities
+8241,Correspondence Schools,correspondence_schools
+8244,Business/Secretarial Schools,business_secretarial_schools
+8249,Vocational/Trade Schools,vocational_trade_schools
+8299,Educational Services,educational_services
+8351,Child Care Services,child_care_services
+8398,Charitable and Social Service Organizations - Fundraising,charitable_and_social_service_organizations_fundraising
+8641,"Civic, Social, Fraternal Associations",civic_social_fraternal_associations
+8651,Political Organizations,political_organizations
+8661,Religious Organizations,religious_organizations
+8675,Automobile Associations,automobile_associations
+8699,Membership Organizations,membership_organizations
+8734,Testing Laboratories,testing_laboratories
+8911,Architectural/Surveying Services,architectural_surveying_services
+8931,Accounting/Bookkeeping Services,accounting_bookkeeping_services
+8999,Professional Services,professional_services
+9211,"Court Costs, Including Alimony and Child Support - Courts of Law",court_costs
+9222,Fines - Government Administrative Entities,fines_government_administrative_entities
+9223,"Bail and Bond Payments (payment to the surety for the bond, not the actual bond paid to the government agency)",bail_and_bond_payments
+9311,Tax Payments - Government Agencies,tax_payments_government_agencies
+9399,Government Services (Not Elsewhere Classified),government_services
+9402,Postal Services - Government Only,postal_services_government_only
+9405,U.S. Federal Government Agencies or Departments,u_s_federal_government_agencies_or_departments
+9950,Intra-Company Purchases,intra_company_purchases
