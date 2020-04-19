@@ -1,0 +1,19 @@
+MCC START,MCC END,DESCRIPTION
+0000,0699,Reserved
+0700,0999,Agricultural services
+1000,1499,Reserved
+1500,2999,Contracted services
+3000,3999,Reserved for private use
+4000,4799,Transportation
+4800,4999,Utilities
+5000,5599,Retail outlets
+5600,5699,Clothing outlets
+5700,5999,Miscellaneous outlets
+6000,7299,Service providers
+7300,7529,Business services
+7530,7799,Repair services
+7800,7999,Amusement and entertainment
+8000,8999,Professional services and membership organizations
+9000,9199,Reserved for ISO use
+9200,9402,Government services
+9403,9999,Other
