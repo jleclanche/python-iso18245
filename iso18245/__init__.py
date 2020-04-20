@@ -113,3 +113,36 @@ def get_mcc_range(mcc: str):
 			break
 
 	raise RuntimeError(f"Could not find correct MCC range for {mcc} (likely a bug)")
+
+
+def get_all_mccs_in_range(first: str, last: str) -> List[MCC]:
+	first_num = validate_mcc(first)
+	last_num = validate_mcc(last)
+
+	lists = [
+		_load_csv("iso18245_official_list.csv"),
+		_load_csv("stripe_list.csv"),
+		_load_csv("usda_list.csv"),
+		_load_csv("visa_list.csv"),
+	]
+
+	mccs = set()
+
+	for mcc_list in lists:
+		for mcc in mcc_list:
+			mcc_num = int(mcc[0])
+			if mcc_num < first_num:
+				continue
+			elif mcc_num > last_num:
+				break
+			mccs.add(mcc[0])
+
+	ret: List[MCC] = []
+	for mcc in sorted(mccs):
+		ret.append(get_mcc(mcc))
+
+	return ret
+
+
+def get_all_mccs() -> List[MCC]:
+	return get_all_mccs_in_range("0000", "9999")
