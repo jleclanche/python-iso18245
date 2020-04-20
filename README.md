@@ -32,3 +32,4 @@ iso18245.InvalidMCC: 999999
 - [AFNOR: ISO 18245](http://portailgroupe.afnor.fr/public_espacenormalisation/ISOTC68SC7/ISO%2018245.html)
 - [Stripe MCC List](https://stripe.com/docs/issuing/categories)
 - [USDA MCC List (incl. private MCCs)](https://www.dm.usda.gov/procurement/card/card_x/mcc.pdf)
+- [VISA Merchant Data Standards Manual](https://usa.visa.com/content/dam/VCOM/download/merchants/visa-merchant-data-standards-manual.pdf)

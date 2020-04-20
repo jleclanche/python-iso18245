@@ -18,7 +18,15 @@ class InvalidMCC(ValueError):
 
 MCC = namedtuple(
 	"MCC",
-	("range", "iso_description", "usda_description", "stripe_description", "stripe_code"),
+	(
+		"range",
+		"iso_description",
+		"usda_description",
+		"stripe_description",
+		"stripe_code",
+		"visa_description",
+		"visa_req_clearing_name",
+	),
 )
 MCCRange = namedtuple("MCCRange", ("start", "end", "description", "reserved"))
 
@@ -57,6 +65,8 @@ def get_mcc(mcc: str) -> MCC:
 	usda_description = ""
 	stripe_description = ""
 	stripe_code = ""
+	visa_description = ""
+	visa_req_clearing_name = ""
 
 	if not mcc_range.reserved:
 		data = _find_mcc_in_csv(mcc, "iso18245_official_list.csv")
@@ -66,6 +76,10 @@ def get_mcc(mcc: str) -> MCC:
 	usda_data = _find_mcc_in_csv(mcc, "usda_list.csv")
 	if usda_data:
 		usda_description, found = usda_data[0], True
+
+	visa_info = _find_mcc_in_csv(mcc, "visa_list.csv")
+	if visa_info:
+		visa_description, visa_req_clearing_name, found = visa_info[0], visa_info[1], True
 
 	stripe_info = _find_mcc_in_csv(mcc, "stripe_list.csv")
 	if stripe_info:
@@ -80,6 +94,8 @@ def get_mcc(mcc: str) -> MCC:
 		usda_description=usda_description,
 		stripe_description=stripe_description,
 		stripe_code=stripe_code,
+		visa_description=visa_description,
+		visa_req_clearing_name=visa_req_clearing_name,
 	)
 
 
