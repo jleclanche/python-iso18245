@@ -1,9 +1,19 @@
 [tool.poetry]
 name = "iso18245"
 version = "1.0.0"
-description = "ISO 18245 Merchant Category Codes database"
+description = "The ISO 18245 Merchant Category Codes database"
 authors = ["Jerome Leclanche <jerome@leclan.ch>"]
+readme = "README.md"
+repository = "https://github.com/jleclanche/python-iso18245"
 license = "MIT"
+classifiers = [
+	"Development Status :: 5 - Production/Stable",
+	"Intended Audience :: Developers",
+	"Topic :: Office/Business :: Financial",
+	"Topic :: Office/Business :: Financial :: Accounting",
+	"Topic :: Software Development :: Libraries :: Python Modules",
+]
+
 
 [tool.poetry.dependencies]
 python = "^3.5"
