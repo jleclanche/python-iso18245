@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "iso18245"
-version = "1.0.0"
+version = "1.0.1"
 description = "The ISO 18245 Merchant Category Codes database"
 authors = ["Jerome Leclanche <jerome@leclan.ch>"]
 readme = "README.md"
