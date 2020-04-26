@@ -19,6 +19,7 @@ class InvalidMCC(ValueError):
 MCC = namedtuple(
 	"MCC",
 	(
+		"mcc",
 		"range",
 		"iso_description",
 		"usda_description",
@@ -89,6 +90,7 @@ def get_mcc(mcc: str) -> MCC:
 		raise MCCNotFound(mcc)
 
 	return MCC(
+		mcc=mcc,
 		range=mcc_range,
 		iso_description=iso_description,
 		usda_description=usda_description,
