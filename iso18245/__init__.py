@@ -27,6 +27,7 @@ MCC = namedtuple(
 		"stripe_code",
 		"visa_description",
 		"visa_req_clearing_name",
+		"alipay_description",
 	),
 )
 MCCRange = namedtuple("MCCRange", ("start", "end", "description", "reserved"))
@@ -68,6 +69,7 @@ def get_mcc(mcc: str) -> MCC:
 	stripe_code = ""
 	visa_description = ""
 	visa_req_clearing_name = ""
+	alipay_description = ""
 
 	if not mcc_range.reserved:
 		data = _find_mcc_in_csv(mcc, "iso18245_official_list.csv")
@@ -86,6 +88,10 @@ def get_mcc(mcc: str) -> MCC:
 	if stripe_info:
 		stripe_description, stripe_code, found = stripe_info[0], stripe_info[1], True
 
+	alipay_info = _find_mcc_in_csv(mcc, "alipay_list.csv")
+	if alipay_info:
+		alipay_description, found = alipay_info[0], True
+
 	if not found:
 		raise MCCNotFound(mcc)
 
@@ -98,6 +104,7 @@ def get_mcc(mcc: str) -> MCC:
 		stripe_code=stripe_code,
 		visa_description=visa_description,
 		visa_req_clearing_name=visa_req_clearing_name,
+		alipay_description=alipay_description,
 	)
 
 
