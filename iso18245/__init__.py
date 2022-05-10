@@ -32,10 +32,10 @@ MCC = namedtuple(
 )
 MCCRange = namedtuple("MCCRange", ("start", "end", "description", "reserved"))
 
-_cached_csv: Dict[str, object] = {}
+_cached_csv: Dict[str, List[List[str]]] = {}
 
 
-def _load_csv(path: str):
+def _load_csv(path: str) -> List[List[str]]:
 	full_path = resource_filename("iso18245", os.path.join("data", path))
 	if path not in _cached_csv:
 		with open(full_path, "r") as f:
@@ -108,7 +108,7 @@ def get_mcc(mcc: str) -> MCC:
 	)
 
 
-def get_mcc_range(mcc: str):
+def get_mcc_range(mcc: str) -> MCCRange:
 	mcc_as_num = validate_mcc(mcc)
 	range_data = _load_csv("iso18245_ranges.csv")
 	for range_start, range_end, description in range_data:
@@ -146,11 +146,7 @@ def get_all_mccs_in_range(first: str, last: str) -> List[MCC]:
 				break
 			mccs.add(mcc[0])
 
-	ret: List[MCC] = []
-	for mcc in sorted(mccs):
-		ret.append(get_mcc(mcc))
-
-	return ret
+	return [get_mcc(mcc) for mcc in sorted(mccs)]
 
 
 def get_all_mccs() -> List[MCC]:
