@@ -4,7 +4,7 @@ on:
   pull_request:
 
 env:
-  POETRY_VERSION: 1.1.13
+  POETRY_VERSION: "1.4.2"
 
 jobs:
   build:
@@ -14,7 +14,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        target: ["3.6", "3.7", "3.8", "3.9", "3.10"]
+        target: ["3.8", "3.9", "3.10", "3.11"]
 
     steps:
       - uses: actions/checkout@v3
