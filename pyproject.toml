@@ -32,4 +32,3 @@ use-tabs = true
 [tool.mypy]
 strict = true
 warn_unused_configs = true
-

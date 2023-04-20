@@ -53,6 +53,10 @@ if __name__ == "__main__":
 
 		writer = csv.writer(sys.stdout)
 		writer.writerow(
-			["MCC", "DESCRIPTION", "REQUIRED NAME IN AUTHORIZATION REQUEST / CLEARING RECORD"]
+			[
+				"MCC",
+				"DESCRIPTION",
+				"REQUIRED NAME IN AUTHORIZATION REQUEST / CLEARING RECORD",
+			]
 		)
 		writer.writerows(rows)

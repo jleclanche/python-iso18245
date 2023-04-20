@@ -82,7 +82,11 @@ def get_mcc(mcc: str) -> MCC:
 
 	visa_info = _find_mcc_in_csv(mcc, "visa_list.csv")
 	if visa_info:
-		visa_description, visa_req_clearing_name, found = visa_info[0], visa_info[1], True
+		visa_description, visa_req_clearing_name, found = (
+			visa_info[0],
+			visa_info[1],
+			True,
+		)
 
 	stripe_info = _find_mcc_in_csv(mcc, "stripe_list.csv")
 	if stripe_info:
@@ -115,7 +119,10 @@ def get_mcc_range(mcc: str) -> MCCRange:
 		start_num, end_num = int(range_start), int(range_end)
 		if start_num <= mcc_as_num <= end_num:
 			return MCCRange(
-				range_start, range_end, description, reserved=description.startswith("Reserved")
+				range_start,
+				range_end,
+				description,
+				reserved=description.startswith("Reserved"),
 			)
 
 		if end_num > mcc_as_num:

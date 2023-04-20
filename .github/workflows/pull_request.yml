@@ -31,4 +31,3 @@ jobs:
       - run: poetry install
         shell: bash
       - run: poetry run mypy iso18245/
-
