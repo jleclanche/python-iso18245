@@ -1,0 +1,29 @@
+name: Linting
+
+on:
+  push:
+
+  pull_request:
+    # The branches below must be a subset of the branches above
+    branches:
+      - master
+
+jobs:
+  linting:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install poetry
+        run: curl -sSL https://install.python-poetry.org | python3 -
+        env:
+          POETRY_VERSION: "1.4.2"
+
+      - name: Install package
+        run: poetry install --with dev
+
+      - name: Run pre-commit
+        run: poetry run pre-commit run --all-files --show-diff-on-failure
