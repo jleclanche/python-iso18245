@@ -1,7 +1,6 @@
 import csv
 import os.path
-from collections import namedtuple
-from typing import Dict, List
+from typing import Dict, List, NamedTuple
 
 from pkg_resources import resource_filename
 
@@ -16,21 +15,24 @@ class InvalidMCC(ValueError):
 	pass
 
 
-MCC = namedtuple(
-	"MCC",
-	(
-		"mcc",
-		"range",
-		"iso_description",
-		"usda_description",
-		"stripe_description",
-		"stripe_code",
-		"visa_description",
-		"visa_req_clearing_name",
-		"alipay_description",
-	),
-)
-MCCRange = namedtuple("MCCRange", ("start", "end", "description", "reserved"))
+class MCCRange(NamedTuple):
+	start: str
+	end: str
+	description: str
+	reserved: bool
+
+
+class MCC(NamedTuple):
+	mcc: str
+	range: MCCRange
+	iso_description: str
+	usda_description: str
+	stripe_description: str
+	stripe_code: str
+	visa_description: str
+	visa_req_clearing_name: str
+	alipay_description: str
+
 
 _cached_csv: Dict[str, List[List[str]]] = {}
 
