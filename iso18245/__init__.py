@@ -36,8 +36,8 @@ _cached_csv: Dict[str, List[List[str]]] = {}
 
 
 def _load_csv(path: str) -> List[List[str]]:
-	full_path = resource_filename("iso18245", os.path.join("data", path))
 	if path not in _cached_csv:
+		full_path = resource_filename("iso18245", os.path.join("data", path))
 		with open(full_path, "r") as f:
 			reader = csv.reader(f)
 			_cached_csv[path] = list(reader)[1:]
