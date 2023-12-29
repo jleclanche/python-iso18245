@@ -50,7 +50,6 @@ def _load_csv(path: str) -> List[List[str]]:
 
 def _find_mcc_in_csv(mcc: str, path: str) -> List[str]:
 	for row in _load_csv(path):
-		print(row)
 		if row[0] == mcc:
 			return row[1:]
 	return []
