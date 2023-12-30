@@ -32,6 +32,7 @@ class MCC(NamedTuple):
 	visa_description: str
 	visa_req_clearing_name: str
 	alipay_description: str
+	mastercard_description: str
 
 
 _cached_csv: Dict[str, List[List[str]]] = {}
@@ -72,6 +73,7 @@ def get_mcc(mcc: str) -> MCC:
 	visa_description = ""
 	visa_req_clearing_name = ""
 	alipay_description = ""
+	mastercard_description = ""
 
 	if not mcc_range.reserved:
 		data = _find_mcc_in_csv(mcc, "iso18245_official_list.csv")
@@ -98,6 +100,10 @@ def get_mcc(mcc: str) -> MCC:
 	if alipay_info:
 		alipay_description, found = alipay_info[0], True
 
+	mastercard_info = _find_mcc_in_csv(mcc, "mastercard_list.csv")
+	if mastercard_info:
+		mastercard_description, found = mastercard_info[0], True
+
 	if not found:
 		raise MCCNotFound(mcc)
 
@@ -111,6 +117,7 @@ def get_mcc(mcc: str) -> MCC:
 		visa_description=visa_description,
 		visa_req_clearing_name=visa_req_clearing_name,
 		alipay_description=alipay_description,
+		mastercard_description=mastercard_description,
 	)
 
 
