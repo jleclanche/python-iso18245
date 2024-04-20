@@ -120,10 +120,10 @@ MCC,DESCRIPTION,STRIPE CODE
 5812,"Eating Places, Restaurants",eating_places_restaurants
 5813,Drinking Places,drinking_places
 5814,Fast Food Restaurants,fast_food_restaurants
-5815,"Digital Goods Media – Books, Movies, Music",digital_goods_media
-5816,Digital Goods – Games,digital_goods_games
-5817,Digital Goods – Applications (Excludes Games),digital_goods_applications
-5818,Digital Goods – Large Digital Goods Merchant,digital_goods_large_volume
+5815,"Digital Goods Media - Books, Movies, Music",digital_goods_media
+5816,Digital Goods - Games,digital_goods_games
+5817,Digital Goods - Applications (Excludes Games),digital_goods_applications
+5818,Digital Goods - Large Digital Goods Merchant,digital_goods_large_volume
 5912,Drug Stores and Pharmacies,drug_stores_and_pharmacies
 5921,"Package Stores-Beer, Wine, and Liquor",package_stores_beer_wine_and_liquor
 5931,Used Merchandise and Secondhand Stores,used_merchandise_and_secondhand_stores
