@@ -26,7 +26,7 @@ MCC,DESCRIPTION,REQUIRED NAME IN AUTHORIZATION REQUEST / CLEARING RECORD
 3010,KLM (ROYAL DUTCH AIRLINES),KLM AIRLINE
 3011,AEROFLOT,AEROFLOT
 3012,QANTAS,QANTAS AIR
-3013,ALITALIA,ALITALIA
+3013,ITA AIRWAYS (FORMERLY ALITALIA),ITA AIRWAYS (FORMERLY ALITALIA)
 3014,SAUDI ARABIAN AIRLINES,SAUDIA AIR
 3015,SWISS INTERNATIONAL AIRLINES,SWISSINTAIR
 3016,SAS,SAS
@@ -595,7 +595,7 @@ MCC,DESCRIPTION,REQUIRED NAME IN AUTHORIZATION REQUEST / CLEARING RECORD
 3826,AUTOGRAPH,
 3827,GALT HOUSE,
 3828,COSMOPOLITAN OF LAS VEGAS,
-3829,COUNTRY INN BY CARLSON,
+3829,COUNTRY INN BY RADISSON,
 3830,PARK PLAZA HOTEL,
 3831,WALDORF,
 3832,CURIO HOTELS,
@@ -625,7 +625,7 @@ MCC,DESCRIPTION,REQUIRED NAME IN AUTHORIZATION REQUEST / CLEARING RECORD
 4784,Tolls and Bridge Fees,
 4789,Transportation Services (Not Elsewhere Classified),
 4812,Telecommunication Equipment and Telephone Sales,
-4814,"Telecommunication Services, including Local and Long Distance Calls, Credit Card Calls, Calls Through Use of Magnetic-",
+4814,"Telecommunication Services, including Local and Long-Distance Calls, Credit Card Calls, Calls Through Use of Magnetic-Stripe-Reading Telephones, and Fax Services",
 4816,Computer Network/Information Services,
 4821,Telegraph Services,
 4829,Money Transfer,
@@ -714,7 +714,7 @@ MCC,DESCRIPTION,REQUIRED NAME IN AUTHORIZATION REQUEST / CLEARING RECORD
 5812,Eating Places and Restaurants,
 5813,"Drinking Places (Alcoholic Beverages) - Bars, Taverns, Nightclubs, Cocktail Lounges, and Discotheques",
 5814,Fast Food Restaurants,
-5815,"Digital Goods Media - Books, Movies, Music",
+5815,"Digital Goods Media - Books, Movies, Digital artwork/images, Music",
 5816,Digital Goods - Games,
 5817,Digital Goods - Applications (Excludes Games),
 5818,Digital Goods - Large Digital Goods Merchant,
@@ -765,7 +765,7 @@ MCC,DESCRIPTION,REQUIRED NAME IN AUTHORIZATION REQUEST / CLEARING RECORD
 6010,Financial Institutions - Manual Cash Disbursements,
 6011,Financial Institutions - Automated Cash Disbursements,
 6012,"Financial Institutions - Merchandise, Services, and Debt Repayment",
-6051,"Non-Financial Institutions - Foreign Currency, Non-Fiat Currency (for example: Cryptocurrency), Money Orders (Not Money",
+6051,"Non-Financial Institutions - Foreign Currency, Non-Fiat Currency (for example: Cryptocurrency), Money Orders (Not Money Transfer), Account Funding (not Stored Value Load), Travelers Cheques, and Debt Repayment",
 6211,Security Brokers/Dealers,
 6300,"Insurance Sales, Underwriting, and Premiums",
 6513,Real Estate Agents and Managers,
@@ -780,7 +780,7 @@ MCC,DESCRIPTION,REQUIRED NAME IN AUTHORIZATION REQUEST / CLEARING RECORD
 7217,Carpet and Upholstery Cleaning,
 7221,Photographic Studios,
 7230,Beauty and Barber Shops,
-7251,"Shoe Repair Shops, Shoe Shine Parlors, and Hat Cleaning Shops",
+7251,"Shoe Repair Shops, Shoeshine Parlors, and Hat Cleaning Shops",
 7261,Funeral Services and Crematories,
 7273,Dating Services,
 7276,Tax Preparation Services,
@@ -840,7 +840,7 @@ MCC,DESCRIPTION,REQUIRED NAME IN AUTHORIZATION REQUEST / CLEARING RECORD
 7992,Public Golf Courses,
 7993,Video Amusement Game Supplies,
 7994,Video Game Arcades/Establishments,
-7995,"Betting, including Lottery Tickets, Casino Gaming Chips, Off-Track Betting, and Wagers at Race Tracks",
+7995,"Betting, including Lottery Tickets, Casino Gaming Chips, Off-Track Betting, Wagers at Race Tracks and games of chance to win prizes of monetary value",
 7996,"Amusement Parks, Circuses, Carnivals, and Fortune Tellers",
 7997,"Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses",
 7998,"Aquariums, Seaquariums, Dolphinariums, and Zoos",
@@ -852,7 +852,7 @@ MCC,DESCRIPTION,REQUIRED NAME IN AUTHORIZATION REQUEST / CLEARING RECORD
 8042,Optometrists and Ophthalmologists,
 8043,"Opticians, Optical Goods, and Eyeglasses",
 8049,Podiatrists and Chiropodists,
-8050,Nursing and Personal Care Facilities,
+8050,"Nursing, Home Healthcare and Personal Care Facilities",
 8062,Hospitals,
 8071,Medical and Dental Laboratories,
 8099,Medical Services and Health Practitioners (Not Elsewhere Classified),
