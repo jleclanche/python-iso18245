@@ -4,10 +4,10 @@ MCC,DESCRIPTION
 0780,Horticultural Services
 0780,Landscaping Services
 1520,General Contractors-Residential and Commercial
-1711,Air Conditioning Contractors – Sales and Installation
-1711,"Heating Contractors – Sales, Service, Installation"
+1711,Air Conditioning Contractors - Sales and Installation
+1711,"Heating Contractors - Sales, Service, Installation"
 1731,Electrical Contractors
-1740,Insulation – Contractors
+1740,Insulation - Contractors
 1740,"Masonry, Stonework Contractors"
 1740,Plastering Contractors
 1740,Stonework and Masonry Contractors
@@ -16,8 +16,8 @@ MCC,DESCRIPTION
 1761,Roofing - Contractors
 1761,Sheet Metal Work - Contractors
 1761,Siding - Contractors
-1771,Contractors – Concrete Work
-1799,"Contractors – Special Trade, Not Elsewhere Classified"
+1771,Contractors - Concrete Work
+1799,"Contractors - Special Trade, Not Elsewhere Classified"
 2741,Miscellaneous Publishing and Printing
 2791,"Typesetting, Plate Making, & Related Services"
 2842,"Specialty Cleaning, Polishing, and Sanitation Preparations"
@@ -187,7 +187,7 @@ MCC,DESCRIPTION
 3294,ETHIOPIAN AIRLINES
 3295,KENYA AIRLINES
 3298,AIR MAURITIUS
-3299,WIDERO’S FLYVESELSKAP
+3299,WIDERO'S FLYVESELSKAP
 3351,AFFILIATED AUTO RENTAL
 3352,AMERICAN INTL RENT-A-CAR
 3353,BROOKS RENT-A-CAR
@@ -289,7 +289,7 @@ MCC,DESCRIPTION
 3552,COAST HOTELS
 3553,PARK INNS INTERNATIONAL
 3562,COMFORT INNS
-3563,JOURNEY’S END MOTLS
+3563,JOURNEY'S END MOTLS
 3565,RELAX INNS
 3568,LADBROKE HOTELS
 3570,FORUM HOTELS
@@ -313,7 +313,7 @@ MCC,DESCRIPTION
 3595,HOSPITALITY INTERNATIONAL
 3598,REGENT INTERNATIONAL HOTELS
 3599,PANNONIA HOTELS
-3603,NOAH’S HOTELS
+3603,NOAH'S HOTELS
 3612,MOVENPICK HOTELS
 3615,TRAVELODGE
 3620,TELFORD INTERNATIONAL
@@ -389,7 +389,7 @@ MCC,DESCRIPTION
 3704,ROYCE HOTELS
 3705,SANDMAN INNS
 3706,SHILO INNS
-3707,SHONEY’S  INNS
+3707,SHONEY'S  INNS
 3709,SUPER8 MOTELS
 3710,THE RITZ CARLTON HOTELS
 3711,FLAG INNS (AUSRALIA)
@@ -408,10 +408,10 @@ MCC,DESCRIPTION
 3725,SEAINES PLANATION
 3726,RIO SUITES
 3727,BROADMOOR HOTEL
-3728,BALLY’S HOTEL AND CASINO
-3729,JOHN ASCUAGA’S NUGGET
+3728,BALLY'S HOTEL AND CASINO
+3729,JOHN ASCUAGA'S NUGGET
 3730,MGM GRAND HOTEL
-3731,HARRAH’S HOTELS AND CASINOS
+3731,HARRAH'S HOTELS AND CASINOS
 3732,OPRYLAND HOTEL
 3733,BOCA RATON RESORT
 3734,HARVEY/BRISTOL HOTELS
@@ -436,18 +436,18 @@ MCC,DESCRIPTION
 3754,AMELIA ISLAND PLANATION
 3755,THE HOMESTEAD
 3756,SOUTH SEAS RESORTS
-4111,"Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation."
+4111,"Local/Suburban Commuter Passenger Transportation - Railroads, Feries, Local Water Transportation."
 4112,Passenger Railways
 4119,Ambulance Services
 4121,Taxicabs and Limousines
 4131,"Bus Lines, Including Charters, Tour Buses"
 4131,Tour Buses
-4214,Delivery Services – Local
+4214,Delivery Services - Local
 4214,Freight Carriers
 4214,Motor Freight Carriers
 4214,Moving and Storage Companies
-4214,Trucking – Local/Long Distance
-4215,Courier Services – Air or Ground
+4214,Trucking - Local/Long Distance
+4215,Courier Services - Air or Ground
 4215,Fright Forwarders
 4225,Storage
 4225,"Warehousing, Public"
@@ -467,7 +467,7 @@ MCC,DESCRIPTION
 4814,"Telecommunication service including local and long distance calls, credit card calls, calls through use of magnetic-strip reading telephones and fax services"
 4815,VisaPhone
 4821,Telegraph services
-4829,Money Orders – Wire Transfer
+4829,Money Orders - Wire Transfer
 4899,Cable and other pay television (previously Cable Services)
 4900,"Electric, Gas, Sanitary and Water Utilities"
 5013,Motor vehicle supplies and new parts
@@ -485,13 +485,13 @@ MCC,DESCRIPTION
 5094,"Precious Stones and Metals, Watches and Jewelry"
 5099,"Durable Goods, Not Elsewhere Classified"
 5111,"Stationery, Office Supplies, Printing, and Writing Paper"
-5122,"Drugs, Drug Proprietors, and Druggist’s Sundries"
+5122,"Drugs, Drug Proprietors, and Druggist's Sundries"
 5131,"Piece Goods, Notions, and Other Dry Goods"
-5137,Men’s Women’s and Children’s Uniforms and Commercial Clothing
+5137,Men's Women's and Children's Uniforms and Commercial Clothing
 5139,Commercial Footwear
 5169,"Chemicals and Allied Products, Not Elsewhere Classified"
 5172,Petroleum and Petroleum Products
-5193,"Florists’ Supplies, Nursery Stock and Flowers"
+5193,"Florists' Supplies, Nursery Stock and Flowers"
 5198,"Paints, Varnishes, and Supplies"
 5199,"Non-durable Goods, Not Elsewhere Classified"
 5200,Home Supply Warehouse Stores
@@ -500,7 +500,7 @@ MCC,DESCRIPTION
 5231,Paint and Wallpaper Stores
 5231,Wallpaper Stores
 5251,Hardware Stores
-5261,Nurseries – Lawn and Garden Supply Store
+5261,Nurseries - Lawn and Garden Supply Store
 5271,Mobile Home Dealers
 5300,Wholesale Clubs
 5309,Duty Free Store
@@ -511,13 +511,13 @@ MCC,DESCRIPTION
 5411,Grocery Stores
 5411,Supermarkets
 5422,Freezer and Locker Meat Provisioners
-5422,Meat Provisioners – Freezer and Locker
+5422,Meat Provisioners - Freezer and Locker
 5441,Candy Stores
 5441,Confectionery Stores
 5441,Nut Stores
 5451,Dairy Products Stores
 5462,Bakeries
-5499,Misc. Food Stores – Convenience Stores and Specialty Markets
+5499,Misc. Food Stores - Convenience Stores and Specialty Markets
 5511,"Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing"
 5521,Automobile and Truck Dealers (Used Only)
 5531,Automobile Supply Stores
@@ -530,15 +530,15 @@ MCC,DESCRIPTION
 5571,Motorcycle Dealers
 5592,Motor Home Dealers
 5598,Snowmobile Dealers
-5611,Men’s and Boy’s Clothing and Accessories Stores
-5621,Women’s Ready-to-Wear Stores
-5631,Women’s Accessory and Specialty Shops
-5641,Children’s and Infant’s Wear Stores
+5611,Men's and Boy's Clothing and Accessories Stores
+5621,Women's Ready-to-Wear Stores
+5631,Women's Accessory and Specialty Shops
+5641,Children's and Infant's Wear Stores
 5651,Family Clothing Stores
 5655,"Sports Apparel, Riding  Apparel Stores"
 5661,Shoe Stores
 5681,Furriers and Fur Shops
-5691,Men’s and Women’s Clothing Stores
+5691,Men's and Women's Clothing Stores
 5697,"Tailors, Seamstress, Mending, and Alterations"
 5698,Wig and Toupee Stores
 5699,Miscellaneous Apparel and Accessory Shops
@@ -557,13 +557,13 @@ MCC,DESCRIPTION
 5813,"Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques"
 5814,Fast Food Restaurants
 5912,Drug Stores and Pharmacies
-5921,"Package Stores – Beer, Wine, and Liquor"
+5921,"Package Stores - Beer, Wine, and Liquor"
 5931,Used Merchandise and Secondhand Stores
-5832,"Antique Shops – Sales, Repairs, and Restoration Services"
+5832,"Antique Shops - Sales, Repairs, and Restoration Services"
 5933,Pawn Shops and Salvage Yards
 5935,Wrecking and Salvage Yards
 5937,Antique Reproductions
-5940,Bicycle Shops – Sales and Service
+5940,Bicycle Shops - Sales and Service
 5941,Sporting Goods Stores
 5942,Book Stores
 5943,"Stationery Stores, Office and School Supply Stores"
@@ -576,43 +576,43 @@ MCC,DESCRIPTION
 5950,Glassware/Crystal Stores
 5960,Direct Marketing- Insurance Service
 5961,"Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)"
-5962,Direct Marketing – Travel Related Arrangements Services
+5962,Direct Marketing - Travel Related Arrangements Services
 5963,Door-to-Door Sales
-5964,Direct Marketing – Catalog Merchant
+5964,Direct Marketing - Catalog Merchant
 5966,Direct Marketing- Outbound Telemarketing Merchant
-5967,Direct Marketing – Inbound Teleservices Merchant
-5968,Direct Marketing – Continuity/Subscription Merchant
-5969,Direct Marketing – Not Elsewhere Classified
-5970,Artist’s Supply and Craft Shops
+5967,Direct Marketing - Inbound Teleservices Merchant
+5968,Direct Marketing - Continuity/Subscription Merchant
+5969,Direct Marketing - Not Elsewhere Classified
+5970,Artist's Supply and Craft Shops
 5971,Art Dealers and Galleries
-5972,Stamp and Coin Stores – Philatelic and Numismatic Supplies
+5972,Stamp and Coin Stores - Philatelic and Numismatic Supplies
 5973,Religious Goods Stores
-5975,"Hearing Aids – Sales, Service, and Supply Stores"
+5975,"Hearing Aids - Sales, Service, and Supply Stores"
 5976,Orthopedic Goods Prosthetic Devices
 5977,Cosmetic Stores
-5978,"Typewriter Stores – Sales, Rental, Service"
-5983,"Fuel – Fuel Oil, Wood, Coal, Liquefied Petroleum"
+5978,"Typewriter Stores - Sales, Rental, Service"
+5983,"Fuel - Fuel Oil, Wood, Coal, Liquefied Petroleum"
 5992,Florists
 5993,Cigar Stores and Stands
 5994,News Dealers and Newsstands
 5995,"Pet Shops, Pet Foods, and Supplies Stores"
-5996,"Swimming Pools – Sales, Service, and Supplies"
-5997,Electric Razor Stores – Sales and Service
+5996,"Swimming Pools - Sales, Service, and Supplies"
+5997,Electric Razor Stores - Sales and Service
 5998,Tent and Awning Shops
 5999,Miscellaneous and Specialty Retail Stores
-6010,Financial Institutions – Manual Cash Disbursements
-6011,Financial Institutions – Manual Cash Disbursements
-6012,Financial Institutions – Merchandise and Services
-6051,"Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques"
+6010,Financial Institutions - Manual Cash Disbursements
+6011,Financial Institutions - Manual Cash Disbursements
+6012,Financial Institutions - Merchandise and Services
+6051,"Non-Financial Institutions - Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques"
 6211,Security Brokers/Dealers
 6300,"Insurance Sales, Underwriting, and Premiums"
 6381,"Insurance Premiums, (no longer valid for first presentment work)"
-7011,"Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)"
+7011,"Lodging - Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)"
 7012,Timeshares
 7032,Sporting and Recreational Camps
 7033,Trailer Parks and Camp Grounds
 7210,"Laundry, Cleaning, and Garment Services"
-7211,Laundry – Family and Commercial
+7211,Laundry - Family and Commercial
 7216,Dry Cleaners
 7217,Carpet and Upholstery Cleaning
 7221,Photographic Studios
@@ -621,9 +621,9 @@ MCC,DESCRIPTION
 7261,Funeral Service and Crematories
 7273,Dating and Escort Services
 7276,Tax Preparation Service
-7277,"Counseling Service – Debt, Marriage, Personal"
+7277,"Counseling Service - Debt, Marriage, Personal"
 7278,"Buying/Shopping Services, Clubs"
-7296,"Clothing Rental – Costumes, Formal Wear, Uniforms"
+7296,"Clothing Rental - Costumes, Formal Wear, Uniforms"
 7297,Massage Parlors
 7298,Health and Beauty Shops
 7299,Miscellaneous Personal Services ( not elsewhere classifies)
@@ -640,7 +640,7 @@ MCC,DESCRIPTION
 7375,Information Retrieval Services
 7379,"Computer Maintenance and Repair Services, Not Elsewhere Classified"
 7392,"Management, Consulting, and Public Relations Services"
-7393,"Protective and Security Services – Including Armored Cars and Guard Dogs"
+7393,"Protective and Security Services - Including Armored Cars and Guard Dogs"
 7394,"Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental"
 7395,"Photofinishing Laboratories, Photo Developing"
 7399,"Business Services, Not Elsewhere Classified"
@@ -650,7 +650,7 @@ MCC,DESCRIPTION
 7523,Automobile Parking Lots and Garages
 7531,Automotive Body Repair Shops
 7534,Tire Re-treading and Repair Shops
-7535,Paint Shops – Automotive
+7535,Paint Shops - Automotive
 7538,Automotive Service Shops
 7542,Car Washes
 7549,Towing Services
@@ -660,7 +660,7 @@ MCC,DESCRIPTION
 7631,"Watch, Clock, and Jewelry Repair"
 7641,"Furniture, Furniture Repair, and Furniture Refinishing"
 7692,Welding Repair
-7699,Repair Shops and Related Services –Miscellaneous
+7699,Repair Shops and Related Services -Miscellaneous
 7829,Motion Pictures and Video Tape Production and Distribution
 7841,Video Tape Rental Stores
 7911,"Dance Halls, Studios and Schools"
@@ -670,7 +670,7 @@ MCC,DESCRIPTION
 7933,Bowling Alleys
 7941,"Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters"
 7991,Tourist Attractions and Exhibits
-7992,Golf Courses – Public
+7992,Golf Courses - Public
 7993,Video Amusement Game Supplies
 7994,Video Game Arcades/Establishments
 7995,"Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers)"
@@ -704,7 +704,7 @@ MCC,DESCRIPTION
 8675,Automobile Associations
 8699,Membership Organizations ( Not Elsewhere Classified)
 8734,Testing Laboratories ( non-medical)
-8911,Architectural – Engineering and Surveying Services
+8911,Architectural - Engineering and Surveying Services
 8931,"Accounting, Auditing, and Bookkeeping Services"
 8999,Professional Services ( Not Elsewhere Defined)
 9211,"Court Costs, including Alimony and Child Support"
@@ -712,9 +712,9 @@ MCC,DESCRIPTION
 9223,Bail and Bond Payments
 9311,Tax Payments
 9399,Government Services ( Not Elsewhere Classified)
-9402,Postal Services – Government Only
-9405,Intra – Government Transactions
+9402,Postal Services - Government Only
+9405,Intra - Government Transactions
 9700,Automated Referral Service ( For Visa Only)
 9701,Visa Credential Service ( For Visa Only)
 9702,GCAS Emergency Services ( For Visa Only)
-9950,Intra – Company Purchases ( For Visa Only)
+9950,Intra - Company Purchases ( For Visa Only)

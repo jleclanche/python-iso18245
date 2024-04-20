@@ -54,11 +54,11 @@ MCC,DESCRIPTION
 5111,"Stationery, office supplies and printing and writing paper"
 5122,"Drugs, drug proprietors"
 5131,"Piece goods, notions and other dry goods"
-5137,"Men’s, women’s and children’s uniforms and commercial clothing"
+5137,"Men's, women's and children's uniforms and commercial clothing"
 5139,Commercial footwear
 5169,Chemicals and allied products - not elsewhere classified
 5192,"Books, periodicals and newspapers"
-5193,"Florists’ supplies, nursery stock and flowers"
+5193,"Florists' supplies, nursery stock and flowers"
 5198,"Paints, varnishes and supplies"
 5199,Non-durable goods - not elsewhere classified
 5200,Home supply warehouse outlets
@@ -92,15 +92,15 @@ MCC,DESCRIPTION
 5592,Motor home dealers
 5598,Snowmobile dealers
 5599,"Miscellaneous automotive, aircraft and farm equipment dealers -not elsewhere classified"
-5611,Men’s and boys’ clothing and accessory shops
-5621,Women’s ready-to-wear shops
-5631,Women’s accessory and speciality shops
-5641,Children’s and infants’ wear shops
+5611,Men's and boys' clothing and accessory shops
+5621,Women's ready-to-wear shops
+5631,Women's accessory and speciality shops
+5641,Children's and infants' wear shops
 5651,Family clothing shops
 5655,Sports and riding apparel shops
 5661,Shoe shops
 5681,Furriers and fur shops
-5691,Men’s and women’s clothing shops
+5691,Men's and women's clothing shops
 5697,"Tailors, seamstresses, mending and alterations"
 5698,Wig and toupee shops
 5699,Miscellaneous apparel and accessory shops
@@ -117,7 +117,7 @@ MCC,DESCRIPTION
 5735,Record shops
 5811,Caterers
 5812,Eating places and restaurants
-5813,"Drinking places (alcoholic beverages) - bars, taverns, night-clubs, cocktail lounges and discothèques"
+5813,"Drinking places (alcoholic beverages) - bars, taverns, night-clubs, cocktail lounges and discotheques"
 5814,Fast food restaurants
 5815,"Digital Goods-Media, Books, Movies, Music"
 5816,Digital Goods-Games
