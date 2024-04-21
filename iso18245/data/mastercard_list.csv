@@ -1,0 +1,876 @@
+MCC,DESCRIPTION,MASTERCARD_ABBREVIATED_AIRLINE_NAME
+0742,Veterinary Services,
+0763,Agricultural Cooperatives,
+0780,Horticultural and Landscaping Services,
+1520,"General Contractors, residential and commercial",
+1711,"Air Conditioning, Heating, and Plumbing Contractors",
+1731,Electrical Contractors,
+1740,"Insulation, Masonry, Plastering, Stonework, and Tile Setting Contractors",
+1750,Carpentry Contractors,
+1761,"Roofing and Siding, Sheet Metal Work Contractors",
+1771,Concrete Work Contractors,
+1799,"Contractors, Special Trade; not elsewhere classified",
+2741,Miscellaneous Publishing and Printing,
+2791,"Typesetting, Plate Making, and Related Services",
+2842,"Sanitation, Polishing, and Specialty Cleaning Preparations",
+3000,United Airlines,UNITED
+3001,American Airlines,AMERICAN
+3002,Pan American,PAN AM
+3003,Eurofly,EUROFLY
+3004,Dragonair,DRAGONAIR
+3005,British Airways,BRITISH A
+3006,Japan Air Lines,JAL
+3007,Air France,AIR FRAN
+3008,Lufthansa,LUFTHAN
+3009,Air Canada,AIR CAN
+3010,Royal Dutch Airlines (KLM),KLM
+3011,Aeroflot,AEROFLOT
+3012,Qantas,QANTAS
+3013,ITA AIRWAYS,ITA SPA
+3014,Saudi Arabian Airlines,SAUDI AI
+3015,Swiss International Air Lines,SWISS
+3016,Scandinavian Airline System (SAS),SAS
+3017,South African Airways,SAFRICAN
+3018,Varig (Brazil),VARIG
+3019,Eastern Airlines,Eastern
+3020,Air India,AIR-INDI
+3021,Air Algerie,AIRALGER
+3022,Philippine Airlines,PAL AIR
+3023,Mexicana,MEXICANA
+3024,Pakistan International,PAKISTAN
+3025,Air New Zealand Limited International,AIR NZ
+3026,Emirates Airlines,EMIRATES
+3027,Union de Transports Aeriens,UTAAIR
+3028,Air Malta,AIRMALTA
+3029,SN Brussels Airlines,SNBRU AIR
+3030,Aerolineas Argentinas,AERO ARG
+3031,Olympic Airways,OLYMPICA
+3032,El Al,EL AL
+3033,Ansett Airlines,ANSETT
+3034,Etihad Airways,ETIHADAIR
+3035,Tap (Portugal),TAP
+3036,VASP (Brazil),VASP
+3037,EgyptAir,EGYPTAIR
+3038,Kuwait Airways,KUWAIT
+3039,Avianca,AVIANCA
+3040,Gulf Air (Bahrain),GULF AIR
+3041,Balkan: Bulgarian Airlines,BALKAN
+3042,Finnair,FINNAIR
+3043,Aer Lingus,AERLING
+3044,Air Lanka,AIR LANKA
+3045,Nigeria Airways,NIGERIA
+3046,Cruzeiro do Sul (Brazil),CRUZEIRO
+3047,Turkish Airlines,THY
+3048,Royal Air Maroc,AIRMARO
+3049,Tunis Air,TUNIS AI
+3050,Icelandair,ICELANDA
+3051,Austrian Airlines,AUSTRIAN
+3052,LAN Airlines,LAN AIR
+3053,AVIACO (Spain),AVIACO
+3054,LADECO (Chile),LADECO
+3055,LAB (Bolivia),LAB
+3056,Jet Airways,JET AIR
+3057,Virgin America,VIR AMER
+3058,Delta,DELTA
+3059,DBA Airlines,DBA AIR
+3060,Northwest Airlines,NWA AIR
+3061,Continental,CONTINEN
+3062,Hapag-Lloyd Express,HLX
+3063,U.S. Airways,USAIRWYS
+3064,Adria Airways,ADRIA AIR
+3065,Air Inter,AIRINTER
+3066,Southwest Airlines,SOUTHWES
+3067,Vanguard Airlines,VANGUARD
+3068,Air Astana,AIRSTANA
+3069,Sun Country Airlines,SUNCNTRY
+3070,Fly Dubai,FLYDUBAI
+3071,Air British Columbia,AIR B R C
+3072,Cebu Pacific,CEBU PAC
+3075,Singapore Airlines,SINGAPOR
+3076,Aeromexico,AEROMEXI
+3077,Thai Airways,THAIAIRW
+3078,China Airlines,CHINAAIR
+3079,Jetstar Airways,JETSTAR
+3080,Swoop Inc.,SWOOP
+3081,Xiamen Airlines,XIAMENAIR
+3082,Korean Airlines,KOREAN
+3083,Air Afrique,AIR AFRIQ
+3084,Eva Airways,EVA AIR
+3085,Midwest Express Airlines,MIDWEST
+3087,Metro Airlines,METROAI
+3088,Croatia Air,CROATIA
+3089,Transaero,TRANSAERO
+3090,Uni Airways,UNIAIR
+3094,Zambia Airways,ZAMBIA A
+3096,Air Zimbabwe,AIRZIMBA
+3097,Spanair,SPANAIR
+3098,Asiana Airlines,ASIANA
+3099,Cathay Pacific,CATHAYPA
+3100,Malaysian Airline System,MALAY AI
+3102,Iberia,IBERIA
+3103,Garuda (Indonesia),GARUDA
+3106,Braathens S.A.F.E. (Norway),BRAATHEN
+3111,British Midland,BRITISH M
+3112,Windward Island,WINDWARD
+3117,Venezolana International de Aviacion,VIASA
+3125,Tan Airlines,TAN AIR
+3127,Taca International,TACA INT
+3129,Surinam Airways,SURINAM
+3130,Sunworld International Airways,SUNWORLD
+3131,VLM Airlines,VLM
+3132,Frontier Airlines,FRONTIER
+3136,Qatar Airways Company W.L.L.,QATAR AIR
+3144,Virgin Atlantic,VIR ATL
+3146,Luxair,LUXAIR
+3148,"Air Littoral, S.A.",LITTORAL
+3151,Air Zaire,AIRZAIRE
+3156,GO FLY Ltd.,GOFLY
+3159,Provincetown-Boston Airways,PBA
+3161,All Nippon Airways,ANAAIR
+3164,Norontair,NORONTAI
+3167,Aero Continente,AERO CONT
+3171,Canadian Airlines,CANADIAN
+3172,Nation Air,NATIONAI
+3174,JetBlue Airways,JETBLUE
+3175,Middle East Air,MIDEASTA
+3177,AirTran Airways,AIRTRAN A
+3178,Mesa Air,MESA AIR
+3180,Westjet Airlines,WESTJET
+3181,Malev Hungarian Airlines,MALEV
+3182,LOT - Polish Airlines,LOT
+3183,Oman Aviation Services,OMAN AIR
+3184,LIAT,LIAT
+3185,LAV Linea Aeropostal Venezolana,LAV
+3186,LAP Lineas Aereas Paraguayas,LAP
+3187,LACSA (Costa Rica),LACSA
+3188,Virgin Express,VIR EXP
+3190,Jugoslav Air,JUGOSLAV
+3191,Island Airlines,ISLANDAI
+3193,Indian Airlines,INDIAN A
+3196,Hawaiian Air,HAWAIIAN
+3197,Havasu Airlines,HAVASUAI
+3200,Guyana Airways,GUYANA A
+3204,Freedom Airlines,FREEDOM
+3206,China Eastern Airlines,CHINAEAST
+3211,Norwegian Air Shuttle,NORWEGIAN
+3212,Dominicana de Aviacion,DOMINICA
+3213,Braathens Regional Airlines,BRAATHENS
+3217,CSA Ceskoslovenske Aerolinie,CSA
+3219,Compania Panamena de Aviacion (Copa),COPA
+3220,Compania Faucett,COMPANIA
+3221,Transportes Aeros Militares Ecuatorianos,TAME AIR
+3222,Command Airways,COMMAND
+3223,Comair,COMAIR
+3226,Skyways,SKYWAYS
+3228,Cayman Airways,CAYMANAIR
+3229,SAETA (Sociedad Ecuatorianas De Transportes Aereo),SAETAAIR
+3231,SAHSA (Servicio Aero de Honduras),SAHSA
+3234,Caribbean Airlines,CARIBBEAN
+3236,Air Arabia Airline,AIR ARAB
+3239,Bar Harbor Airlines,BARHARBO
+3240,Bahamasair,BAHAMASA
+3241,Aviateca (Guatemala),AVIATECA
+3242,Avensa,AVENSA
+3243,Austrian Air Service,AUSTRAIR
+3245,EasyJet,EASYJET
+3246,Ryanair,RYANAIR
+3247,Gol Airlines,GOL
+3248,Tam Airlines,TAM
+3252,ALM Antilean Airlines,ALM
+3253,America West,AMERWEST
+3256,Alaska Airlines Inc.,ALASKA A
+3260,Spirit Airlines,SPIRIT
+3261,Air China,AIR CHINA
+3263,Aero Servicio Carabobo,ASERCA
+3266,Air Seychelles,AIR SEYC
+3267,Air Panama International,AIR PANA
+3280,Air Jamaica,AIR JAMA
+3282,Air Djibouti,AIR DJIB
+3285,Aero Peru,AEROPERU
+3286,Aero Nicaraguenses,AERO NIC
+3287,Aero Coach Aviation,AEROCOAC
+3292,Cyprus Airways,CYPRUSA
+3293,Ecuatoriana,ECUATORI
+3294,Ethiopian Airlines,ETHIOPIA
+3295,Kenya Airways,KENYAAIR
+3296,Air Berlin,AIRBERLIN
+3297,Tarom Romanian Air Transport,TAROM AIR
+3298,Air Mauritius,AIRMAURI
+3299,Wideroes Flyveselskap,WIDEROES
+3300,Azul Brazilian Airlines,AZUL AIR
+3301,Wizz Airlines,WIZZ AIR
+3302,Flybe LTD,FLYBEAIR
+3303,Tigerair,TIGERAIR
+3308,China Southern,CSAIR
+3351,Affiliated Auto Rental,
+3352,American International,
+3353,Brooks Rent-A-Car,
+3354,Action Auto Rental,
+3355,SIXT Car Rental,
+3357,Hertz,
+3359,Payless Car Rental,
+3360,Snappy Car Rental,
+3361,Airways Rent-A-Car,
+3362,Altra Auto Rental,
+3364,Agency Rent-A-Car,
+3366,Budget Rent-A-Car,
+3368,Holiday Rent-A-Car,
+3370,Rent A Wreck,
+3374,Accent Rent-A-Car,
+3376,Ajax Rent-A-Car,
+3380,Triangle Rent-A-Car,
+3381,Europcar,
+3385,Tropical Rent-A-Car,
+3386,Showcase Rental Cars,
+3387,Alamo Rent-A-Car,
+3388,Merchants Rent-A-Car,
+3389,Avis Rent-A-Car,
+3390,Dollar Rent-A-Car,
+3391,Europe By Car,
+3393,National Car Rental,
+3394,Kemwell Group Rent-A-Car,
+3395,Thrifty Car Rental,
+3396,Tilden Rent-A-Car,
+3398,Econo Car Rent-A-Car,
+3400,Auto Host Car Rental,
+3405,Enterprise Rent-A-Car,
+3409,General Rent-A-Car,
+3412,A1 Rent-A-Car,
+3420,ANSA International,
+3421,Allstate Rent-A-Car,
+3423,Avcar Rent-A-Car,
+3425,Automate Rent-A-Car,
+3427,Avon Rent-A-Car,
+3428,Carey Rent-A-Car,
+3429,Insurance Rent-A-Car,
+3430,Major Rent-A-Car,
+3431,Replacement Rent-A-Car,
+3432,Reserve Rent-A-Car,
+3433,Ugly Duckling Rent-A-Car,
+3434,USA Rent-A-Car,
+3435,Value Rent-A-Car,
+3436,Autohansa Rent-A-Car,
+3438,Interent Rent-A-Car,
+3439,Milleville Rent-A-Car,
+3441,Advantage Rent-A-Car,
+3501,Holiday Inns,
+3502,Best Western Hotels,
+3503,Sheraton (Sheraton Hotels),
+3504,Hilton,
+3505,Forte Hotels,
+3506,Golden Tulip Hotels,
+3507,Friendship Inns,
+3508,Quality Inns,
+3509,Marriott,
+3510,Days Inns,
+3511,Arabella Hotels,
+3512,Intercontinental Hotels,
+3513,Westin (Westin Hotels),
+3514,Amerisuites,
+3515,Rodeway Inns,
+3516,LaQuinta Inns,
+3517,Americana Hotels,
+3518,Sol Hotels,
+3519,Pullman International Hotels,
+3520,Meridien Hotels,
+3521,Royal Lahaina Resort,
+3522,Tokyo Hotel,
+3523,Peninsula Hotels,
+3524,WelcomGroup Hotels,
+3525,Dunfey Hotels,
+3526,Prince Hotels,
+3527,Downtowner Passport,
+3528,Red Lion Inns,
+3529,CP (Canadian Pacific) Hotels,
+3530,Renaissance Hotels,
+3531,Kauai Coconut Beach Resort,
+3532,Royal Kona Resort,
+3533,Hotel Ibis,
+3534,Southern Pacific Hotel,
+3535,Hilton International,
+3536,AMFAC Hotels,
+3537,ANA Hotels,
+3538,Concorde Hotels,
+3539,Summerfield Suites Hotel,
+3540,Iberotel Hotels,
+3541,Hotel Okura,
+3542,Royal Hotels,
+3543,Four Seasons Hotels,
+3544,Ciga Hotels,
+3545,Shangri-La International,
+3546,Hotel Sierra,
+3547,Breakers Resort,
+3548,Hotels Melia,
+3549,Auberge des Governeures,
+3550,Regal 8 Inns,
+3551,Mirage Hotel and Casino,
+3552,Coast Hotel,
+3553,Park Inn by Radisson,
+3554,Pinehurst Resort,
+3555,Treasure Island Hotel and Casino,
+3556,Barton Creek Resort,
+3557,Manhattan East Suite Hotels,
+3558,Jolly Hotels,
+3559,Candlewood Suites,
+3560,Aladdin Resort and Casino,
+3561,Golden Nugget,
+3562,Comfort Inns,
+3563,Journey's End Motels,
+3564,Sam's Town Hotel and Casino,
+3565,Relax Inns,
+3566,Garden Place Hotel,
+3567,Soho Grand Hotel,
+3568,Ladbroke Hotels,
+3569,Tribeca Grand Hotel,
+3570,Forum Hotels,
+3571,Grand Wailea Resort,
+3572,Miyako Hotel,
+3573,Sandman Hotels,
+3574,Venture Inn,
+3575,Vagabond Hotels,
+3576,La Quinta Resort,
+3577,Mandarin Oriental Hotels,
+3578,Frankenmuth Bavarian,
+3579,Hotel Mercure,
+3580,Hotel Del Coronado,
+3581,Delta Hotels,
+3582,California Hotel and Casino,
+3583,Radisson BLU,
+3584,Princess Hotels International,
+3585,Hungar Hotels,
+3586,Sokos Hotel,
+3587,Doral Hotels,
+3588,Helmsley Hotels,
+3589,Doral Golf Resort,
+3590,Fairmont Hotels,
+3591,Sonesta Hotels,
+3592,Omni Hotels,
+3593,Cunard Hotels,
+3594,Arizona Biltmore,
+3595,Hospitality Inns,
+3596,Wynn Las Vegas,
+3597,Riverside Resort and Casino,
+3598,Regent International Hotel,
+3599,Pannonia Hotels,
+3600,Saddlebrook Resort: Tampa,
+3601,TradeWinds Resorts,
+3602,Hudson Hotel,
+3603,Noah's Hotel,
+3604,Hilton Garden Inn,
+3605,Jurys Doyle Hotel Group,
+3606,Jefferson Hotel,
+3607,Fontainebleau Resort,
+3608,Gaylord Opryland,
+3609,Gaylord Palms,
+3610,Gaylord Texan,
+3611,C MON INN,
+3612,Movenpick Hotels,
+3613,Microtel Inn and Suites,
+3614,AmericInn,
+3615,Travelodge,
+3616,Hermitage Hotel,
+3617,America's Best Value Inn,
+3618,Great Wolf,
+3619,aloft (aloft hotels),
+3620,Binion's Horseshoe Club,
+3621,Extended Stay,
+3622,Merlin Hotel Group,
+3623,Dorint Hotels,
+3624,Lady Luck Hotel and Casino,
+3625,Hotel Universale,
+3626,Studio Plus,
+3627,Extended Stay America,
+3628,Excalibur Hotel and Casino,
+3629,Dan Hotels,
+3630,Tokyu Hotels,
+3631,Sleep Inns,
+3632,The Phoenician,
+3633,Rank Hotels,
+3634,Swissotel,
+3635,Reso Hotel,
+3636,Sarova Hotels,
+3637,Ramada Inns,
+3638,Howard Johnson,
+3639,Mount Charlotte Thistle,
+3640,Hyatt Hotels,
+3641,Sofitel Hotels,
+3642,Novotel Hotels,
+3643,Steigenberger Hotels,
+3644,EconoLodges,
+3645,Queens Moat Houses,
+3646,Swallow Hotels,
+3647,Husa Hotels,
+3648,De Vera Hotels,
+3649,Radisson,
+3650,Red Roof Inns,
+3651,Imperial London Hotels,
+3652,Embassy Hotels,
+3653,Penta Hotels,
+3654,Loews Hotels,
+3655,Scandic Hotels,
+3656,Sara Hotels,
+3657,Oberoi Hotels,
+3658,New Otani Hotels,
+3659,Taj Hotels International,
+3660,Knights Inn,
+3661,Metropole Hotels,
+3662,Circus Circus Hotel and Casino,
+3663,Hoteles El Presidente,
+3664,Flag Inns,
+3665,Hampton Inn Hotels,
+3666,Stakis Hotels,
+3667,Luxor Hotel and Casino,
+3668,Maritim Hotels,
+3669,Eldorado Hotel and Casino,
+3670,Arcade Hotels,
+3671,Arctia Hotels,
+3672,Campanile Hotels,
+3673,IBUSZ Hotels,
+3674,Rantasipi Hotels,
+3675,Interhotel CEDOK,
+3676,Monte Carlo Hotel and Casino,
+3677,Climat de France Hotels,
+3678,Cumulus Hotels,
+3679,Silver Legacy Hotel and Casino,
+3680,Hoteis Othan,
+3681,Adams Mark Hotels,
+3682,Sahara Hotel and Casino,
+3683,Bradbury Suites,
+3684,Budget Hosts Inns,
+3685,Budgetel Inns,
+3686,Susse Chalet,
+3687,Clarion Hotels,
+3688,Compri Hotels,
+3689,Consort Hotels,
+3690,Courtyard by Marriott,
+3691,Dillon Inn,
+3692,Doubletree,
+3693,Drury Inn,
+3694,Economy Inns of America,
+3695,Embassy Suites,
+3696,Excel Inn,
+3697,Fairfield Hotels,
+3698,Harley Hotels,
+3699,Midway Motor Lodge,
+3700,Motel 6,
+3701,La Mansion Del Rio,
+3702,Registry Hotels,
+3703,Residence Inn,
+3704,Royce Hotels,
+3705,Sandman Inn,
+3706,Shilo Inn,
+3707,Shoney's Inn,
+3708,Virgin River Hotel and Casino,
+3709,Super 8 Motels,
+3710,The Ritz-Carlton,
+3711,Flag Inns (Australia),
+3712,Buffalo Bill's Hotel and Casino,
+3713,Quality Pacific Hotel,
+3714,Four Seasons (Australia) Hotels,
+3715,Fairfield Inn,
+3716,Carlton Hotels,
+3717,City Lodge Hotels,
+3718,Karos Hotels,
+3719,Protea Hotels,
+3720,Southern Sun Hotels,
+3721,Conrad Hotels,
+3722,Wyndham,
+3723,Rica Hotels,
+3724,Inter Nor Hotels,
+3725,Sea Pines Resort,
+3726,Rio Suites,
+3727,Broadmoor Hotel,
+3728,Bally's Hotel and Casino,
+3729,John Ascuagas Nugget,
+3730,MGM Grand Hotel,
+3731,Harrahs Hotels and Casinos,
+3732,Opryland Hotel,
+3733,Boca Raton Resort,
+3734,Harvey Bristol Hotels,
+3735,Masters Economy Inns,
+3736,Colorado Belle Edgewater Resort,
+3737,Riviera Hotel and Casino,
+3738,Tropicana Resort and Casino,
+3739,Woodside Hotels and Resorts,
+3740,TownePlace Suites,
+3741,Millennium Hotels,
+3742,Club Med,
+3743,Biltmore Hotel and Suites,
+3744,Carefree Resorts,
+3745,St. Regis Hotel,
+3746,Eliot Hotels,
+3747,Club Corp/Club Resorts,
+3748,Wellesley Inns,
+3749,Beverly Hills Hotel,
+3750,Crowne Plaza Hotels,
+3751,Homewood Suites,
+3752,Peabody Hotels,
+3753,Greenbriar Resorts,
+3754,Amelia Island Plantation,
+3755,Homestead,
+3756,Toyoko Inn,
+3757,Canyon Ranch,
+3758,Kahala Mandarin Oriental Hotel,
+3759,Orchid at Mauna Lani,
+3760,Halekulani Hotel/Waikiki Parc,
+3761,Primadonna Hotel and Casino,
+3762,Whiskey Pete's Hotel and Casino,
+3763,Chateau Elan Winery and Resort,
+3764,Beau Rivage Hotel and Casino,
+3765,Bellagio Hotel and Casino,
+3766,Fremont Hotel and Casino,
+3767,Main Street Hotel and Casino,
+3768,Silver Star Hotel and Casino,
+3769,Stratosphere Hotel and Casino,
+3770,SpringHill Suites,
+3771,Caesars Hotel and Casino,
+3772,Nemacolin Woodlands,
+3773,Venetian Resort Hotel and Casino,
+3774,"New York, New York Hotel and Casino",
+3775,Sands Resort,
+3776,Nevele Grande Resort and Country Club,
+3777,Mandalay Bay Resort,
+3778,Four Points Hotels,
+3779,W Hotels,
+3780,Disney Resorts,
+3781,Patricia Grand Resort Hotels,
+3782,Rosen Hotels and Resorts,
+3783,Town and Country Resort & Convention Center,
+3784,First Hospitality Hotels,
+3785,Outrigger Hotels & Resorts,
+3786,Ohana Hotels of Hawaii,
+3787,Caribe Royale Resort Suites & Villas,
+3788,Ala Moana Hotel,
+3789,Smugglers' Notch Resort,
+3790,Raffles Hotels,
+3791,Staybridge Suites,
+3792,Claridge Casino Hotel,
+3793,The Flamingo Hotels,
+3794,Grand Casino Hotels,
+3795,Paris Las Vegas Hotel,
+3796,Peppermill Hotel Casino,
+3797,Atlantic City Hilton,
+3798,Embassy Vacation Resort,
+3799,Hale Koa Hotel,
+3800,Homestead Suites,
+3801,Wilderness Hotel and Golf Resort,
+3802,The Palace Hotel,
+3803,The Wigwam Golf Resort and Spa,
+3804,The Diplomat Country Club and Spa,
+3805,The Atlantic,
+3806,Princeville Resort,
+3807,Element,
+3808,LXR (Luxury Resorts),
+3809,Settle Inn,
+3810,La Costa Resort,
+3811,Premier Inn,
+3812,Hyatt Place,
+3813,Hotel Indigo,
+3814,The Roosevelt Hotel NY,
+3815,Holiday Inn Nickelodeon,
+3816,Home2 Suites by Hilton,
+3817,Affinia,
+3818,MainStay Suites,
+3819,Oxford Suites,
+3820,Jumeirah Essex House,
+3821,Caribe Royale,
+3823,Grand Sierra Resort,
+3824,Aria (Aria Resort and Casino),
+3825,Vdara (Vdara Hotel and Spa),
+3826,Autograph,
+3827,Galt House,
+3828,Cosmopolitan of Las Vegas,
+3829,Country Inn by Carlson,
+3830,Park Plaza Hotel,
+3831,Waldorf,
+3832,Curio Hotels,
+3833,Canopy Hotels,
+3834,Baymont Inn and Suites,
+3835,Dolce Hotels and Resorts,
+3836,Hawthorn Suites by Wyndham,
+3837,Hoshino Resorts,
+3838,Kimpton Hotels,
+3839,Kyoritsu Hotels,
+4011,Railroads; Freight,
+4111,"Transportation: Suburban and Local Commuter Passenger, including Ferries",
+4112,Passenger Railways,
+4119,Ambulance Services,
+4121,Limousines and Taxicabs,
+4131,Bus Lines,
+4214,"Motor Freight Carriers, Trucking: Local/Long Distance, Moving and Storage Companies, Local Delivery",
+4215,"Courier Services: Air and Ground, Freight Forwarders",
+4225,"Public Warehousing; Farm Products, Refrigerated Goods, Household Goods Storage",
+4411,Cruise Lines,
+4457,Boat Leases and Boat Rentals,
+4468,"Marinas, Marine Service/Supplies",
+4511,"Air Carriers, Airlines: Not Elsewhere Classified",
+4582,"Airports, Airport Terminals, Flying Fields",
+4722,Travel Agencies and Tour Operators,
+4784,"Bridge and Road Fees, Tolls",
+4789,Transportation Services: not elsewhere classified,
+4812,Telecommunication Equipment Including Telephone Sales,
+4813,Key-entry Telecom Merchant providing single local and long-distance phone calls using a central access number in a non-face-to-face environment using key entry,
+4814,Telecommunication Services including but not limited to prepaid phone services and recurring phone services,
+4816,Computer Network/Information Services,
+4821,Telegraph Services,
+4829,Money Transfer,
+4899,"Cable, Satellite, and Other Pay Television and Radio Services",
+4900,"Utilities: Electric, Gas, Heating Oil, Sanitary, Water",
+5013,Motor Vehicle Supplies and New Parts,
+5021,Office and Commercial Furniture,
+5039,Construction Materials: not elsewhere classified,
+5044,"Office, Photographic, Photocopy, and Microfilm Equipment",
+5045,"Computers, Computer Peripheral Equipment, Software",
+5046,Commercial Equipment: not elsewhere classified,
+5047,Dental/Laboratory/Medical/Ophthalmic Hospital Equipment and Supplies,
+5051,Metal Service Centers and Offices,
+5065,Electrical Parts and Equipment,
+5072,Hardware Equipment and Supplies,
+5074,Plumbing and Heating Equipment,
+5085,Industrial Supplies: not elsewhere classified,
+5094,"Precious Stones and Metals, Watches and Jewelry",
+5099,Durable Goods: not elsewhere classified,
+5111,"Stationery, Office Supplies, Printing and Writing Paper",
+5122,"Drugs, Drug Proprietors, and Druggists Sundries",
+5131,"Piece Goods, Notions, and Other Dry Goods",
+5137,"Men's, Women's, and Children's Uniforms and Commercial Clothing",
+5139,Commercial Footwear,
+5169,Chemicals and Allied Products: not elsewhere classified,
+5172,Petroleum and Petroleum Products,
+5192,"Books, Periodicals, and Newspapers",
+5193,"Florists Supplies, Nursery Stock, and Flowers",
+5198,"Paints, Varnishes, and Supplies",
+5199,Nondurable Goods: not elsewhere classified,
+5200,Home Supply Warehouse Stores,
+5211,"Building Materials, Lumber Stores",
+5231,"Glass, Paint, Wallpaper Stores",
+5251,Hardware Stores,
+5261,Lawn and Garden Supply Stores,
+5271,Mobile Home Dealers,
+5300,Wholesale Clubs,
+5309,Duty Free Stores,
+5310,Discount Stores,
+5311,Department Stores,
+5331,Variety Stores,
+5399,Miscellaneous General Merchandise Stores,
+5411,"Grocery Stores, Supermarkets",
+5422,"Freezer, Locker Meat Provisioners",
+5441,"Candy, Nut, Confectionery Stores",
+5451,Dairy Products Stores,
+5462,Bakeries,
+5499,"Miscellaneous Food Stores: Convenience Stores, Markets, Specialty Stores",
+5511,"Automobile and Truck Dealers: Sales, Service, Repairs, Parts, and Leasing",
+5521,Automobile and Truck Dealers: (Used Only): Sales,
+5531,"Auto Store, Home Supply Stores",
+5532,Automotive Tire Stores,
+5533,"Automotive Parts, Accessories Stores",
+5541,Service Stations (with or without Ancillary Services),
+5542,"Fuel Dispenser, Automated",
+5551,Boat Dealers,
+5552,Electric Vehicle Charging,
+5561,"Camper Dealers, Recreational and Utility Trailers",
+5571,Motorcycle Shops and Dealers,
+5592,Motor Home Dealers,
+5598,Snowmobile Dealers,
+5599,"Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers: not elsewhere classified",
+5611,Men's and Boys' Clothing and Accessories Stores,
+5621,Women's Ready to Wear Stores,
+5631,Women's Accessory and Specialty Stores,
+5641,Children's and Infants' Wear Stores,
+5651,Family Clothing Stores,
+5655,"Sports Apparel, Riding Apparel Stores",
+5661,Shoe Stores,
+5681,Furriers and Fur Shops,
+5691,Men's and Women's Clothing Stores,
+5697,"Alterations, Mending, Seamstresses, Tailors",
+5698,Wig and Toupee Shops,
+5699,Accessory and Apparel Stores: Miscellaneous,
+5712,"Equipment, Furniture, and Home Furnishings Stores (except Appliances)",
+5713,Floor Covering Stores,
+5714,"Drapery, Upholstery, and Window Coverings Stores",
+5718,"Fireplace, Fireplace Screens and Accessories Stores",
+5719,Miscellaneous House Furnishing Specialty Shops,
+5722,Household Appliance Stores,
+5732,Electronic Sales,
+5733,"Music Stores: Musical Instruments, Pianos, Sheet Music",
+5734,Computer Software Stores,
+5735,Record Shops,
+5811,Caterers,
+5812,"Eating Places, Restaurants",
+5813,"Bars, Cocktail Lounges, Discotheques, Nightclubs, and Taverns: Drinking Places (Alcoholic Beverages)",
+5814,Fast Food Restaurants,
+5815,"Digital Goods: Audiovisual Media Including Books, Movies, and Music",
+5816,Digital Goods: Games,
+5817,Digital Goods: Software Applications (Excluding Games),
+5818,Digital Goods: Multi-Category,
+5912,"Drug Stores, Pharmacies",
+5921,"Package Stores, Beer, Wine, and Liquor",
+5931,"Second Hand Stores, Used Merchandise Stores",
+5932,"Antique Shops: Sales, Repairs, and Restoration Services",
+5933,Pawn Shops,
+5935,Salvage and Wrecking Yards,
+5937,Antique Reproduction Stores,
+5940,Bicycle Shops: Sales and Service,
+5941,Sporting Goods Stores,
+5942,Book Stores,
+5943,"Office, School Supply, and Stationery Stores",
+5944,"Clock, Jewelry, Watch, and Silverware Store",
+5945,"Game, Toy, and Hobby Shops",
+5946,Camera and Photographic Supply Stores,
+5947,"Card, Gift, Novelty, and Souvenir Shops",
+5948,Leather Goods and Luggage Stores,
+5949,"Fabric, Needlework, Piece Goods, and Sewing Stores",
+5950,Crystal and Glassware Stores,
+5960,Direct Marketing: Insurance Services,
+5962,Direct Marketing: Travel-Related Arrangement Services,
+5963,Door-to-Door Sales,
+5964,Direct Marketing: Catalog Merchants,
+5965,Direct Marketing: Combination Catalog and Retail Merchants,
+5966,Direct Marketing: Outbound Telemarketing Merchants,
+5967,Direct Marketing: Inbound Telemarketing Merchants,
+5968,Direct Marketing: Continuity/Subscription Merchants,
+5969,Direct Marketing: Other Direct Marketers: not elsewhere classified,
+5970,"Artist Supply Stores, Craft Shops",
+5971,Art Dealers and Galleries,
+5972,Stamp and Coin Stores: Philatelic and Numismatic Supplies,
+5973,Religious Goods Stores,
+5975,"Hearing Aids: Sales, Service, Supply Stores",
+5976,Orthopedic Goods: Artificial Limb Stores,
+5977,Cosmetic Stores,
+5978,"Typewriter Stores: Rentals, Sales, Service",
+5983,"Fuel Dealers: Coal, Fuel Oil, Liquefied Petroleum, Wood",
+5992,Florists,
+5993,Cigar Stores and Stands,
+5994,News Dealers and Newsstands,
+5995,Pet Shops: Pet Food and Supplies,
+5996,Swimming Pools: Sales and Supplies,
+5997,Electric Razor Stores: Sales and Service,
+5998,Tent and Awning Shops,
+5999,Miscellaneous and Specialty Retail Stores,
+6010,Manual Cash Disbursements: Customer Financial Institution,
+6011,Automated Cash Disbursements: Customer Financial Institution,
+6012,Merchandise and Services: Customer Financial Institution,
+6050,Quasi Cash: Customer Financial Institution,
+6051,Quasi Cash: Merchant,
+6211,Securities: Brokers/Dealers,
+6300,"Insurance Sales, Underwriting, and Premiums",
+6513,Real Estate Agents and Managers: Rentals,
+6532,Payment Transaction: Customer Financial Institution,
+6533,Payment Transaction: Merchant,
+6536,MoneySend Intracountry,
+6537,MoneySend Intercountry,
+6538,Funding Transactions for MoneySend,
+6540,Funding Transactions,
+7011,"Lodging: Hotels, Motels, Resorts: not elsewhere classified",
+7012,Timeshares,
+7032,Recreational and Sporting Camps,
+7033,Campgrounds and Trailer Parks,
+7210,"Cleaning, Garment, and Laundry Services",
+7211,Laundry Services: Family and Commercial,
+7216,Dry Cleaners,
+7217,Carpet and Upholstery Cleaning,
+7221,Photographic Studios,
+7230,Barber and Beauty Shops,
+7251,"Hat Cleaning Shops, Shoe Repair Shops, Shoe Shine Parlors",
+7261,Funeral Service and Crematories,
+7273,Dating Services,
+7276,Tax Preparation Service,
+7277,"Debt, Marriage, Personal: Counseling Service",
+7278,"Buying/Shopping Clubs, Services",
+7295,Housekeeping Service (China),
+7296,"Clothing Rental: Costumes, Uniforms, and Formal Wear",
+7297,Massage Parlors,
+7298,Health and Beauty Spas,
+7299,Other Services: not elsewhere classified,
+7311,Advertising Services,
+7321,Consumer Credit Reporting Agencies,
+7322,Debt Collection Agency,
+7333,"Commercial Art, Graphics, Photography",
+7338,"Quick Copy, Reproduction, and Blueprinting Services",
+7339,Stenographic and Secretarial Support Services,
+7342,Exterminating and Disinfecting Services,
+7349,"Cleaning and Maintenance, Janitorial Services",
+7361,"Employment Agencies, Temporary Help Services",
+7372,"Computer Programming, Data Processing, and Integrated Systems Design Services",
+7375,Information Retrieval Services,
+7379,"Computer Maintenance, Repair, and Services: not elsewhere classified",
+7392,"Consulting, Management, and Public Relations Services",
+7393,"Detective Agencies, Protective Agencies, Security Services including Armored Cars, Guard Dogs",
+7394,"Equipment Rental and Leasing Services, Furniture Rental, Tool Rental",
+7395,"Photo Developing, Photofinishing Laboratories",
+7399,Business Services: not elsewhere classified,
+7512,Automobile Rental Agency: not elsewhere classified,
+7513,Truck Rental,
+7519,Motor Home and Recreational Vehicle Rental,
+7523,Automobile Parking Lots and Garages,
+7531,Automotive Body Repair Shops,
+7534,Tire Retreading and Repair Shops,
+7535,Automotive Paint Shops,
+7538,Automotive Service Shops,
+7542,Car Washes,
+7549,Towing Services,
+7622,Electronic Repair Shops,
+7623,Air Conditioning and Refrigeration Repair Shops,
+7629,"Appliance Repair Shops, Electrical and Small",
+7631,"Clock, Jewelry, and Watch Repair Shops",
+7641,"Furniture: Reupholstery and Repair, Refinishing",
+7692,Welding Repair,
+7699,Miscellaneous Repair Shops and Related Services,
+7800,Government Owned Lottery (U.S. Region Only),
+7801,Internet Gambling (U.S. Region Only),
+7802,Government Licensed Horse/Dog Racing (U.S. Region Only),
+7829,Motion Picture and Video Tape Production and Distribution,
+7832,Motion Picture Theaters,
+7841,Video Entertainment Rental Stores,
+7911,"Dance Halls, Schools, and Studios",
+7922,"Theatrical Producers (except Motion Pictures), Ticket Agencies",
+7929,"Bands, Orchestras, and Miscellaneous Entertainers: not elsewhere classified",
+7932,Pool and Billiard Establishments,
+7933,Bowling Alleys,
+7941,"Athletic Fields, Commercial Sports, Professional Sports Clubs, Sports Promoters",
+7991,Tourist Attractions and Exhibits,
+7992,"Golf Courses, Public",
+7993,Video Amusement Game Supplies,
+7994,Video Game Arcades/Establishments,
+7995,Gambling Transactions,
+7996,"Amusement Parks, Carnivals, Circuses, Fortune Tellers",
+7997,"Clubs: Country Clubs, Membership (Athletic, Recreation, Sports), Private Golf Courses",
+7998,"Aquariums, Dolphinariums, Zoos, and Seaquariums",
+7999,Recreation Services: not elsewhere classified,
+8011,Doctors: not elsewhere classified,
+8021,"Dentists, Orthodontists",
+8031,Osteopathic Physicians,
+8041,Chiropractors,
+8042,"Optometrists, Ophthalmologists",
+8043,"Opticians, Optical Goods, and Eyeglasses",
+8049,"Chiropodists, Podiatrists",
+8050,Nursing and Personal Care Facilities,
+8062,Hospitals,
+8071,Dental and Medical Laboratories,
+8099,"Health Practitioners, Medical Services: not elsewhere classified",
+8111,"Attorneys, Legal Services",
+8211,"Schools, Elementary and Secondary",
+8220,"Colleges, Universities, Professional Schools, and Junior Colleges",
+8241,"Schools, Correspondence",
+8244,"Schools, Business and Secretarial",
+8249,"Schools, Trade and Vocational",
+8299,Schools and Educational Services: not elsewhere classified,
+8351,Child Care Services,
+8398,"Organizations, Charitable and Social Service",
+8641,"Associations: Civic, Social, and Fraternal",
+8651,"Organizations, Political",
+8661,"Organizations, Religious",
+8675,Automobile Associations,
+8699,"Organizations, Membership: not elsewhere classified",
+8734,Testing Laboratories (Non-Medical),
+8911,"Architectural, Engineering, and Surveying Services",
+8931,"Accounting, Auditing, and Bookkeeping Services",
+8999,Professional Services: not elsewhere classified,
+9211,Court Costs including Alimony and Child Support,
+9222,Fines,
+9223,Bail and Bond Payments,
+9311,Tax Payments,
+9399,Government Services: not elsewhere classified,
+9402,Postal Services: Government Only,
+9405,Intra-Government Purchases: Government Only,
+9406,"Government-owned Lottery (global, excluding U.S. region)",
