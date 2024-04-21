@@ -1,6 +1,6 @@
 import csv
 import os.path
-from typing import Dict, List, NamedTuple
+from typing import Any, Dict, List, NamedTuple
 
 from pkg_resources import resource_filename
 
@@ -179,3 +179,23 @@ def get_all_mccs_in_range(first: str, last: str) -> List[MCC]:
 
 def get_all_mccs() -> List[MCC]:
 	return get_all_mccs_in_range("0000", "9999")
+
+
+def get_all_mccs_dict() -> List[Dict[str, Any]]:
+	"""Returns list of dictionaries for all MCCs, e.g. for easy conversion to pandas data frame using `DataFrame(get_all_mccs_dict())`."""
+	return [{'mcc': item.mcc,\
+			 'mcc_range_start': item.range.start,\
+			 'mcc_range_end': item.range.end,\
+			 'mcc_range_description': item.range.description,\
+			 'mcc_range_reserved_flag': item.range.reserved,\
+			 'iso_description': item.iso_description,\
+			 'usda_description': item.usda_description,\
+			 'stripe_description': item.stripe_description,\
+			 'stripe_code': item.stripe_code,\
+			 'visa_description': item.visa_description,\
+			 'visa_req_clearing_name': item.visa_req_clearing_name,\
+			 'alipay_description': item.alipay_description,\
+			 'mastercard_description': item.mastercard_description,\
+			 'mastercard_abbreviated_airline_name': item.mastercard_abbreviated_airline_name,\
+			 'amex_description': item.amex_description\
+			} for item in get_all_mccs()]
