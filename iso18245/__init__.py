@@ -32,6 +32,9 @@ class MCC(NamedTuple):
 	visa_description: str
 	visa_req_clearing_name: str
 	alipay_description: str
+	mastercard_description: str
+	mastercard_abbreviated_airline_name: str
+	amex_description: str
 
 
 _cached_csv: Dict[str, List[List[str]]] = {}
@@ -72,6 +75,9 @@ def get_mcc(mcc: str) -> MCC:
 	visa_description = ""
 	visa_req_clearing_name = ""
 	alipay_description = ""
+	mastercard_description = ""
+	mastercard_abbreviated_airline_name = ""
+	amex_description = ""
 
 	if not mcc_range.reserved:
 		data = _find_mcc_in_csv(mcc, "iso18245_official_list.csv")
@@ -98,6 +104,14 @@ def get_mcc(mcc: str) -> MCC:
 	if alipay_info:
 		alipay_description, found = alipay_info[0], True
 
+	mastercard_info = _find_mcc_in_csv(mcc, "mastercard_list.csv")
+	if mastercard_info:
+		mastercard_description, mastercard_abbreviated_airline_name, found = mastercard_info[0], mastercard_info[1], True
+
+	amex_info = _find_mcc_in_csv(mcc, "amex_list.csv")
+	if amex_info:
+		amex_description, found = amex_info[0], True
+
 	if not found:
 		raise MCCNotFound(mcc)
 
@@ -111,6 +125,9 @@ def get_mcc(mcc: str) -> MCC:
 		visa_description=visa_description,
 		visa_req_clearing_name=visa_req_clearing_name,
 		alipay_description=alipay_description,
+		mastercard_description=mastercard_description,
+		mastercard_abbreviated_airline_name=mastercard_abbreviated_airline_name,
+		amex_description=amex_description,
 	)
 
 
@@ -142,6 +159,8 @@ def get_all_mccs_in_range(first: str, last: str) -> List[MCC]:
 		_load_csv("stripe_list.csv"),
 		_load_csv("usda_list.csv"),
 		_load_csv("visa_list.csv"),
+		_load_csv("mastercard_list.csv"),
+		_load_csv("amex_list.csv"),
 	]
 
 	mccs = set()
