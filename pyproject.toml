@@ -17,6 +17,7 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.8"
+importlib_resources = "^5.4.0"
 
 [tool.poetry.group.dev.dependencies]
 mypy = "^1.2.0"
