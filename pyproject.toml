@@ -28,9 +28,6 @@ types-setuptools = "^68.0.0.3"
 requires = ["poetry_core>=1.5.0"]
 build-backend = "poetry.masonry.api"
 
-[tool.black]
-use-tabs = true
-
 [tool.mypy]
 strict = true
 warn_unused_configs = true
