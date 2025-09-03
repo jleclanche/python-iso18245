@@ -22,6 +22,7 @@ importlib_resources = "^5.4.0"
 [tool.poetry.group.dev.dependencies]
 mypy = "^1.2.0"
 pre-commit = "^3.2.2"
+ruff = "^0.12.11"
 types-setuptools = "^68.0.0.3"
 
 [build-system]
